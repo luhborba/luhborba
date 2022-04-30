@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, Eu sou Luciano Borba</h1>
 <h3 align="center">Eu sou Analista de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Técnico de Informatica**
+- 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Analista de Dados**
 
 - 🌱 Atualmente estou buscando Aprender Bastante sobre **Ciência de Dados, Python, Django, BI, Orange**
 
