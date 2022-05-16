@@ -11,6 +11,8 @@
 
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 
+- 👨‍💻 Compartilho meus projetos em [https://github.com/luhborba](https://github.com/luhborba)
+
 - 💬 Pergunte-me sobre **Python, Power BI, SQL**
 
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
