@@ -11,7 +11,7 @@
 
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 
-- 👨‍💻 Compartilho meus projetos em [https://github.com/luhborba](https://github.com/luhborba)
+- 👨‍💻 Compartilho meus projetos em [https://share.streamlit.io/luhborba/portifolio/main/Portifolio.py](https://share.streamlit.io/luhborba/portifolio/main/Portifolio.py)
 
 - 💬 Pergunte-me sobre **Python, Power BI, SQL**
 
