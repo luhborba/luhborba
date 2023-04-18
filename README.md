@@ -5,15 +5,13 @@
 
 - 🌱 Atualmente estou buscando Aprender Bastante sobre **Ciência de Dados, Python, Django, BI, Orange**
 
-- 👯 Atualmente colaboro com atividade de Suporte de Sistemas e Analise de BI **na Gerência de Dados**
+- 👯 Atualmente colaboro com atividade de Analista de Dados **na Gerência de Dados**
 
 - Também posto vídeos sobre Oracle Apex no Youtube [https://www.youtube.com/channel/UCN16u-GFjdNmVWlxBZvRqsQ](https://www.youtube.com/channel/UCN16u-GFjdNmVWlxBZvRqsQ)
 
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 
-- 👨‍💻 Compartilho meus projetos em [https://share.streamlit.io/luhborba/portifolio/main/Portifolio.py](https://share.streamlit.io/luhborba/portifolio/main/Portifolio.py)
-
-- 💬 Pergunte-me sobre **Python, Power BI, SQL**
+- 💬 Pergunte-me sobre **Python, Django, Pentaho, Power BI, SQL**
 
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
 
