@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Analista de Dados**
 
-- 🌱 Atualmente estou buscando Aprender Bastante sobre **Ciência de Dados, Python, Django, BI, Orange**
+- 🌱 Atualmente estou buscando Aprender Bastante sobre **Business Intelligence, Analytics Engineer, Data Analytics, Power BI, SQL Python, Django e Pentaho**
 
 - 👯 Atualmente colaboro com atividade de Analista de Dados **na Gerência de Dados**
 
