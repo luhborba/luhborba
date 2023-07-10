@@ -14,7 +14,15 @@
 - 💬 Pergunte-me sobre **Python, Django, Pentaho, Power BI, SQL**
 
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
-
+  
+<h3 align="left">Projetos Relevantes na Carreira:</h3>
+<p align="left">
+  - Implementação de Sistema de Gestão de Processos Online na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [ 2022 ] 
+  - Criação do Primeiro Data Warehouse da Secretaria Municipal de Saúde de João Pessoa, utilizando Python + PostgreSQL [ 2022 ] 
+  - Implantação de Sistema para Auditoria Multidisciplinar na Rede Hospitalar e Pré-Hospitalar do Secretaria Municipal de Saúde de João Pessoa
+  - Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [ 2022 - 2023 ]
+  - Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [ 2023 ] 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luhborba" height="30" width="40" /></a>
