@@ -10,12 +10,12 @@
   
 <h3 align="left">Projetos Relevantes na Carreira:</h3>
 <p align="left">
-  <BR>- Implementação de Sistema de Gestão de Processos Online na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [ 2022 ] <BR>
-  <BR>- Criação do Primeiro Data Warehouse da Secretaria Municipal de Saúde de João Pessoa, utilizando Python + PostgreSQL [ 2022 ] <BR>
-  <BR>- Implantação de Sistema para Auditoria Multidisciplinar na Rede Hospitalar e Pré-Hospitalar do Secretaria Municipal de Saúde de João Pessoa [ 2022 - 2023 ]<BR>
-  <BR>- Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [ 2022 - 2023 ]<BR>
-  <BR>- Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [ 2023 ] <BR>
-  <BR>- Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ) [ 2022 - Até o Momento ] <BR>
+  <BR>- Implementação de Sistema de Gestão de Processos Online na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [ 2022 ] 
+  <BR>- Criação do Primeiro Data Warehouse da Secretaria Municipal de Saúde de João Pessoa, utilizando Python + PostgreSQL [ 2022 ] 
+  <BR>- Implantação de Sistema para Auditoria Multidisciplinar na Rede Hospitalar e Pré-Hospitalar do Secretaria Municipal de Saúde de João Pessoa [ 2022 - 2023 ]
+  <BR>- Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [ 2022 - 2023 ]
+  <BR>- Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [ 2023 ]
+  <BR>- Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ) [ 2022 - Até o Momento ]
 
 ## Hard Skills:
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (PL-SQL), MySQL, PostgreSQL
