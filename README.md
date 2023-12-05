@@ -2,8 +2,9 @@
 <h3 align="center">Sou Engenheiro Analítico</h3>
 
 - 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Analista de Dados**
-- 🌱 Atualmente estou buscando Aprender Bastante sobre **Business Intelligence, Analytics Engineer, Data Analytics, Power BI, SQL Python, Django e Pentaho**
-- 👯 Atualmente colaboro com atividade de Analista de Dados **na Gerência de Dados**
+- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Analytics Engineer, Data Analytics, Power BI, SQL Python, Django e Pentaho**
+- 📚 Atualmente estou estudando e praticando bastante sobre  **PySpark e Databricks**
+- 👯 Atualmente colaboro com atividade de Analista de Dados **na Gerência de Projetos e Governança de Dados**
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 - 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Power BI**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
