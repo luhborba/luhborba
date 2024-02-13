@@ -1,22 +1,23 @@
 <h1 align="center">Ola 👋, Eu sou Luciano Borba</h1>
 <h3 align="center">Sou Engenheiro Analítico</h3>
 
-- 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Analista de Dados**
+- 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Gerente de Projetos e Governaça de Dados**
 - 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Analytics Engineer, Data Analytics, Power BI, SQL Python, Django e Pentaho**
-- 📚 Atualmente estou estudando e praticando bastante sobre  **PySpark e Databricks**
-- 👯 Atualmente colaboro com atividade de Analista de Dados **na Gerência de Projetos e Governança de Dados**
+- 📚 Atualmente estou estudando e praticando bastante sobre  **Testes, CI/CD, PySpark, Databricks**
+- 👯 Atualmente colaboro com atividade de Projetos e Governança de Dados **na Diretoria de Tecnologia na Saúde**
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 - 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Power BI**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
   
 <h3 align="left">Projetos Relevantes na Carreira:</h3>
 
-  -  Implementação de Sistema de Gestão de Processos Online na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [2022] 
+  -  Implementação de Sistema de Gestão de Processos Online, gerando economia aproximada de R$ 5 Milhões atualmente[Até 2023] na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [2022] 
   -  Criação do Primeiro Data Warehouse da Secretaria Municipal de Saúde de João Pessoa, utilizando Python + PostgreSQL [2022] 
   -  Implantação de Sistema para Auditoria Multidisciplinar na Rede Hospitalar e Pré-Hospitalar do Secretaria Municipal de Saúde de João Pessoa [2022-2023]
   -  Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [2022-2023]
   -  Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [2023]
   -  Desenvolvimento de Sistema para Internação Hospitalar ( Python + Django ) [2023]
+  -  Product Manager de Sistmea de Processo Seletivo para Saúde (Java + Spring) [2024 - Até o Momento]
   -  Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ) [2022 - Até o Momento]
 
 ## Hard Skills:
