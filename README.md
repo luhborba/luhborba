@@ -8,6 +8,7 @@
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 - 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Power BI**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
+- 🌐	Acesse minha página pessoal: [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
   
 <h3 align="left">Projetos Relevantes na Carreira:</h3>
 
