@@ -35,19 +35,6 @@
 - Pensamento Crítico
 - Constante Aprendizado
 
-## Projetos Portifólio:
-
-### Data Glow UP 25 - Dados de League of Legends
-
-Neste projeto trazido por Heitor Sasaki, sobre dados de lol disponível no Kaggle. 
-Foi utilizando Python Pandas e Jupyter Notebooks, voltado para uma apresentação simples com PowerPoint.
-Repositório: https://github.com/luhborba/dataglowup25
-
-### Projeto Camara dos Deputados
-
-Neste projeto trago dados da Câmara dos Deputados Brasileiro, com foto em realizar algumas análises para identificar o padrão de gastos dos Deputados e Partidos Brasileiros. A ideia deste projeto é fazer uma estrutura de Data Warehouse a fim de gerir dados para análises.
-Repositório: https://github.com/luhborba/projeto_camara_deputados
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
