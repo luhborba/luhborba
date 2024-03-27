@@ -9,7 +9,8 @@
 - 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Power BI**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
 - 🌐	Acesse minha página pessoal: [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
-  
+![Imagem Portifolio](/assets/portifolio.png)
+
 <h3 align="left">Projetos Relevantes na Carreira:</h3>
 
   -  Implementação de Sistema de Gestão de Processos Online, gerando economia aproximada de R$ 5 Milhões atualmente[Até 2023] na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [2022] 
@@ -42,10 +43,10 @@
 <a href="https://www.youtube.com/@luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciano borba" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Trabalho com as Seguintes Tecnologias: </h3>
+<p align="left"> <!-- Python--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><!-- SQL-->  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  alt="SQL" width="40" height="40"/><!--DuckDB--><img src="assets/duckdb.png" alt="streamlit" width="40" height="40"><!--Postgres--> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><!--Linux--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><!--Docker--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  width="40" height="40"/><!-- MySQL-->         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><!-- Oracle--><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <!--Pands--> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <!--SQLite-->  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/><!--SQLAlchemy--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"  alt="sqlite" width="40" height="40"/><!--Airflow--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"   alt="airflow" width="40" height="40"/><!--Pytest--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"/><!--Streamlit--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" width="60" height="40"/><!--Django--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/><!--Superset --><img src="assets/superset.png" alt="streamlit" width="60" height="40"><!--PowerBI--><img src="assets/PBI.png" alt="PBI" width="35" height="40"></p>
 
-<p>*Ainda em estruturação para Projetos de Dados.*</p>
+
 
 <div>
 <a href="https://github.com/luhborba">
@@ -53,7 +54,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!---
-luhborba/luhborba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
