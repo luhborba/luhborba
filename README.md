@@ -48,6 +48,19 @@
 
 ## 📊 Métricas do canal
 
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <a href="http://youtube.com/@luhborba?sub_confirmation=1">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCN16u-GFjdNmVWlxBZvRqsQ" />
+    </a>
+  </div>
+  <div style="margin-left: 10px;">
+    <a href="http://youtube.com/@luhborba?sub_confirmation=1">
+      <img src="https://img.shields.io/youtube/channel/views/UCN16u-GFjdNmVWlxBZvRqsQ" />
+    </a>
+  </div>
+</div>
+
 ## 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h_tir_Lfx8M"><img width="140px" src="https://i.ytimg.com/vi/h_tir_Lfx8M/mqdefault.jpg"></a></td>
