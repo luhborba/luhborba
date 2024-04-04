@@ -63,7 +63,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jOUo6gasiA0"><img width="140px" src="https://i.ytimg.com/vi/jOUo6gasiA0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JWJZC55g-VA"><img width="140px" src="https://i.ytimg.com/vi/JWJZC55g-VA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JWJZC55g-VA">Como fiz meu primeiro gráfico com Apache Superset?</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jOUo6gasiA0"><img width="140px" src="https://i.ytimg.com/vi/jOUo6gasiA0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jOUo6gasiA0">Curso Streamlit - Campos de Forms #Aula13</a><br/>Apr 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u7QUOt-PJss"><img width="140px" src="https://i.ytimg.com/vi/u7QUOt-PJss/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u7QUOt-PJss">Excel é um Banco de Dados?</a><br/>Mar 28, 2024</td></tr></table>
@@ -71,8 +73,6 @@
 <td><a href="https://www.youtube.com/watch?v=h_tir_Lfx8M">Streamlit - Part 2 - Projeto de Data Quality</a><br/>Mar 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LjNcYh3-Sk4"><img width="140px" src="https://i.ytimg.com/vi/LjNcYh3-Sk4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LjNcYh3-Sk4">OverView Apache Superset - Conhecendo essa ferramenta para DataViz</a><br/>Mar 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M0_vDO16auE"><img width="140px" src="https://i.ytimg.com/vi/M0_vDO16auE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M0_vDO16auE">Criando Aplicação Streamlit, com Docker e Banco de Dados em Cloud</a><br/>Mar 24, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
