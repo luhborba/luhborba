@@ -63,7 +63,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY"><img width="140px" src="https://i.ytimg.com/vi/OF2TcvV_AsY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MqIlhmdOep4"><img width="140px" src="https://i.ytimg.com/vi/MqIlhmdOep4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MqIlhmdOep4">Como instalar Docker e Apache Airflow&lpar;Astro-CLI&rpar; - WSL/Linux</a><br/>Apr 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY"><img width="140px" src="https://i.ytimg.com/vi/OF2TcvV_AsY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY">Curso Streamlit - MultiPage com Controle  de Acesso #Aula16</a><br/>Apr 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=j5LCB-lVa2A"><img width="140px" src="https://i.ytimg.com/vi/j5LCB-lVa2A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j5LCB-lVa2A">Apache Airflow/Astro-CLI - Alterando Portas de Acesso</a><br/>Apr 12, 2024</td></tr></table>
@@ -71,8 +73,6 @@
 <td><a href="https://www.youtube.com/watch?v=P5p0oYGPWIU">Curso Streamlit - Formulário, Session State e Botão de Download #Aula15</a><br/>Apr 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4xz3Nf1_oqo"><img width="140px" src="https://i.ytimg.com/vi/4xz3Nf1_oqo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4xz3Nf1_oqo">Curso Streamlit - Utilizando Gráficos Interativos #Aula14</a><br/>Apr 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wIGexSX3kx4"><img width="140px" src="https://i.ytimg.com/vi/wIGexSX3kx4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wIGexSX3kx4">Apoie-me - Loja de Camisa de apoio ao canal</a><br/>Apr 4, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
