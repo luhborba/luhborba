@@ -64,7 +64,7 @@
 ## 📺 Vídeos Recentes
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo"><img width="140px" src="https://i.ytimg.com/vi/MhRtpNPvwPo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo">Voce Conhece o CKAN? Ferramenta de Portal de Dados</a><br/>Apr 23, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo">Você Conhece o CKAN? Ferramenta de Portal de Dados</a><br/>Apr 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MqIlhmdOep4"><img width="140px" src="https://i.ytimg.com/vi/MqIlhmdOep4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqIlhmdOep4">Como instalar Docker e Apache Airflow&lpar;Astro-CLI&rpar; - WSL/Linux</a><br/>Apr 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY"><img width="140px" src="https://i.ytimg.com/vi/OF2TcvV_AsY/mqdefault.jpg"></a></td>
