@@ -1,12 +1,12 @@
 <h1 align="center">Ola 👋, Eu sou Luciano Borba</h1>
-<h3 align="center">Sou Engenheiro Analítico</h3>
+<h3 align="center">Sou Engenheiro de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando na Secretaria Municipal de Saúde de João Pessoa **Gerente de Projetos e Governaça de Dados**
-- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Analytics Engineer, Data Analytics, Power BI, SQL Python, Django e Pentaho**
+- 🔭 Atualmente estou trabalhando na Secretaria de Saúde do Estado da Paraíba **Engenheiro de Dados**
+- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Analytics Engineer, Data Analytics, Apache Airflow, Docker, SQL e Python**
 - 📚 Atualmente estou estudando e praticando bastante sobre  **Testes, CI/CD, PySpark, Databricks**
-- 👯 Atualmente colaboro com atividade de Projetos e Governança de Dados **na Diretoria de Tecnologia na Saúde**
+- 👯 Atualmente colaboro com atividade de Integraçao de Sistemas **na Gerencia de Tecnologia da Informação**
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
-- 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Power BI**
+- 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Docker e Airflow**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
 - 🌐	Acesse minha página pessoal: [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
 ![Imagem Portifolio](/assets/portifolio.png)
@@ -20,14 +20,16 @@
   -  Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [2023]
   -  Desenvolvimento de Sistema para Internação Hospitalar ( Python + Django ) [2023]
   -  Product Manager de Sistmea de Processo Seletivo para Saúde (Java + Spring) [2024 - Até o Momento]
-  -  Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ) [2022 - Até o Momento]
+  -  Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ), implantação realizada com sucesso em 3 Hospitais Municipais, 4 UPAS, 203 Equipes de Atenção Primária, 5 Policlinicas, Todas as Farmácias e Laboratórios Municipais [2022 - 2024]
 
 ## Hard Skills:
-- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (PL-SQL), MySQL, PostgreSQL
+- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (PL-SQL), MySQL, PostgreSQL, DuckDB
 - Modelagem: Relacional, Dimensional
 - Ferramentas de ETL: Pentaho, Integration Services
-- Ferramentas de Dataviz: Power BI, Python Plotly, Python Matplotlib, Python Seaborn
-- Ferramentas de apoio: Excel, Git, Python para análise de dados
+- Ferramentas de Orquestração: Apache Airflow
+- Ferramentas de Dataviz: Apache Superset, Streamlit, Power BI, Python Plotly, Python Matplotlib, Python Seaborn
+- Ferramentas de apoio: Excel, Git, Python para dados
+- Ferramenta de Container: Docker
 
 ## Soft Skills:
 - Habilidades de Comunicação
