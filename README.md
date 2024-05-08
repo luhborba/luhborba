@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fstsQ5x3N4s"><img width="140px" src="https://i.ytimg.com/vi/fstsQ5x3N4s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iM_0Db-DlJs"><img width="140px" src="https://i.ytimg.com/vi/iM_0Db-DlJs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iM_0Db-DlJs">Onde Aprender sobre Engenharia de Dados? Conheça a Jornada de Dados</a><br/>May 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fstsQ5x3N4s"><img width="140px" src="https://i.ytimg.com/vi/fstsQ5x3N4s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fstsQ5x3N4s">Porque usar DuckDB? Why DuckDB?</a><br/>May 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo"><img width="140px" src="https://i.ytimg.com/vi/MhRtpNPvwPo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo">Você Conhece o CKAN? Ferramenta de Portal de Dados</a><br/>Apr 23, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=MqIlhmdOep4">Como instalar Docker e Apache Airflow&lpar;Astro-CLI&rpar; - WSL/Linux</a><br/>Apr 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY"><img width="140px" src="https://i.ytimg.com/vi/OF2TcvV_AsY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OF2TcvV_AsY">Curso Streamlit - MultiPage com Controle  de Acesso #Aula16</a><br/>Apr 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=j5LCB-lVa2A"><img width="140px" src="https://i.ytimg.com/vi/j5LCB-lVa2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j5LCB-lVa2A">Apache Airflow/Astro-CLI - Alterando Portas de Acesso</a><br/>Apr 12, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
