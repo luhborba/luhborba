@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P32SPMhO5M4"><img width="140px" src="https://i.ytimg.com/vi/P32SPMhO5M4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S5oAVtYcHuA"><img width="140px" src="https://i.ytimg.com/vi/S5oAVtYcHuA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=S5oAVtYcHuA">O segredo está na sua rotina diária</a><br/>May 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=P32SPMhO5M4"><img width="140px" src="https://i.ytimg.com/vi/P32SPMhO5M4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P32SPMhO5M4">Instalando Apache Superset com Docker</a><br/>May 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IUtfHYu6-Tg"><img width="140px" src="https://i.ytimg.com/vi/IUtfHYu6-Tg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IUtfHYu6-Tg">Curso Streamlit - Menu com a Função TABS #Aula17</a><br/>May 14, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=iM_0Db-DlJs">Onde Aprender sobre Engenharia de Dados? Conheça a Jornada de Dados</a><br/>May 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fstsQ5x3N4s"><img width="140px" src="https://i.ytimg.com/vi/fstsQ5x3N4s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fstsQ5x3N4s">Porque usar DuckDB? Why DuckDB?</a><br/>May 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo"><img width="140px" src="https://i.ytimg.com/vi/MhRtpNPvwPo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MhRtpNPvwPo">Você Conhece o CKAN? Ferramenta de Portal de Dados</a><br/>Apr 23, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
