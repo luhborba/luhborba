@@ -81,15 +81,14 @@
 <a href="https://github.com/luhborba">
 # Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=shadow_blue)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&theme=shadow_blue)
 
-![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=radical)
+![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=shadow_blue)
 
 ## Estatísticas Detalhadas
-![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=shadow_blue)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luhborba)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
