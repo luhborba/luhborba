@@ -78,7 +78,6 @@
 <!-- YOUTUBE:END -->
 
 <div>
-<a href="https://github.com/luhborba">
   
 ## Minhas Estatísticas do GitHub
 
