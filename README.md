@@ -79,15 +79,19 @@
 
 <div>
 <a href="https://github.com/luhborba">
-# Minhas Estatísticas do GitHub
+  
+## Minhas Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=shadow_blue)
 
+## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&theme=shadow_blue)
+
+## Resumo das Contribuições
 
 ![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=shadow_blue)
 
-## Estatísticas Detalhadas
+## Visualizações ao Meu Pefil
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
 
 </div>
