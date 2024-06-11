@@ -88,7 +88,7 @@
 ![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=shadow_blue)
 
 ## Estatísticas Detalhadas
-![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=shadow_blue)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
 
 </div>
 
