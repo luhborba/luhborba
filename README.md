@@ -79,7 +79,15 @@
 
 <div>
 <a href="https://github.com/luhborba">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+# Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&theme=radical)
+
+![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=radical)
+
+## Estatísticas Detalhadas
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
 </div>
 
