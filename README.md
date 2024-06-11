@@ -89,5 +89,7 @@
 
 ## Estatísticas Detalhadas
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luhborba)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
