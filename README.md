@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0"><img width="140px" src="https://i.ytimg.com/vi/eXuExAMPkU0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw"><img width="140px" src="https://i.ytimg.com/vi/FfIUfFn5Abw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw">Como instalar MySQL e PHPMyAdmin com Docker</a><br/>Jun 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0"><img width="140px" src="https://i.ytimg.com/vi/eXuExAMPkU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0">Reagindo a Pesquisa do Código Fonte TV - Focado em Dados</a><br/>Jun 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w"><img width="140px" src="https://i.ytimg.com/vi/Uqu8ccyw06w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w">Lançamento do DuckDB 1.0.0</a><br/>Jun 4, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=T5N_cNcHG7s">Curso Streamlit - Utilizando Colunas com ST.COLUMNS #Aula18</a><br/>May 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S5oAVtYcHuA"><img width="140px" src="https://i.ytimg.com/vi/S5oAVtYcHuA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S5oAVtYcHuA">O segredo está na sua rotina diária</a><br/>May 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=P32SPMhO5M4"><img width="140px" src="https://i.ytimg.com/vi/P32SPMhO5M4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P32SPMhO5M4">Instalando Apache Superset com Docker</a><br/>May 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
