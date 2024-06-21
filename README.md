@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60"><img width="140px" src="https://i.ytimg.com/vi/hwIsXJxDj60/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es"><img width="140px" src="https://i.ytimg.com/vi/XXE-QPoY4es/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es">Utilizando Data Lake com MinIO e DuckDB  com Docker</a><br/>Jun 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60"><img width="140px" src="https://i.ytimg.com/vi/hwIsXJxDj60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60">Reagindo a Noticia do MotherDuck Start e Futuras Integrações &lpar;DuckDB&rpar;</a><br/>Jun 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw"><img width="140px" src="https://i.ytimg.com/vi/FfIUfFn5Abw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw">Como instalar MySQL e PHPMyAdmin com Docker</a><br/>Jun 11, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0">Reagindo a Pesquisa do Código Fonte TV - Focado em Dados</a><br/>Jun 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w"><img width="140px" src="https://i.ytimg.com/vi/Uqu8ccyw06w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w">Lançamento do DuckDB 1.0.0</a><br/>Jun 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=T5N_cNcHG7s"><img width="140px" src="https://i.ytimg.com/vi/T5N_cNcHG7s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T5N_cNcHG7s">Curso Streamlit - Utilizando Colunas com ST.COLUMNS #Aula18</a><br/>May 22, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
