@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es"><img width="140px" src="https://i.ytimg.com/vi/XXE-QPoY4es/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A"><img width="140px" src="https://i.ytimg.com/vi/X0fSJypcK9A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A">Treinamentos para Área de Dados - Finalmente lancei meu Site - LR Data</a><br/>Jun 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es"><img width="140px" src="https://i.ytimg.com/vi/XXE-QPoY4es/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es">Utilizando Data Lake com MinIO e DuckDB  com Docker</a><br/>Jun 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60"><img width="140px" src="https://i.ytimg.com/vi/hwIsXJxDj60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60">Reagindo a Noticia do MotherDuck Start e Futuras Integrações &lpar;DuckDB&rpar;</a><br/>Jun 14, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw">Como instalar MySQL e PHPMyAdmin com Docker</a><br/>Jun 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0"><img width="140px" src="https://i.ytimg.com/vi/eXuExAMPkU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eXuExAMPkU0">Reagindo a Pesquisa do Código Fonte TV - Focado em Dados</a><br/>Jun 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w"><img width="140px" src="https://i.ytimg.com/vi/Uqu8ccyw06w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Uqu8ccyw06w">Lançamento do DuckDB 1.0.0</a><br/>Jun 4, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
