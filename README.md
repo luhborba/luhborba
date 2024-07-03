@@ -65,16 +65,16 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Eg0ioiNfZvM"><img width="140px" src="https://i.ytimg.com/vi/Eg0ioiNfZvM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=348dbGlqwzw"><img width="140px" src="https://i.ytimg.com/vi/348dbGlqwzw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=348dbGlqwzw">Nova Câmera para as gravações do Canal ✌️🚀 Logitech Brio 100</a><br/>Jul 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84"><img width="140px" src="https://i.ytimg.com/vi/BPQ_hiDLc84/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84">Desbravando Git e GitHub</a><br/>Jul 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Eg0ioiNfZvM"><img width="140px" src="https://i.ytimg.com/vi/Eg0ioiNfZvM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Eg0ioiNfZvM">Motivacional da Segunda - Quem você Sonha Ser</a><br/>Jul 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A"><img width="140px" src="https://i.ytimg.com/vi/X0fSJypcK9A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A">Treinamentos para Área de Dados - Finalmente lancei meu Site - LR Data</a><br/>Jun 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es"><img width="140px" src="https://i.ytimg.com/vi/XXE-QPoY4es/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es">Utilizando Data Lake com MinIO e DuckDB  com Docker</a><br/>Jun 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60"><img width="140px" src="https://i.ytimg.com/vi/hwIsXJxDj60/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hwIsXJxDj60">Reagindo a Noticia do MotherDuck Start e Futuras Integrações &lpar;DuckDB&rpar;</a><br/>Jun 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw"><img width="140px" src="https://i.ytimg.com/vi/FfIUfFn5Abw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FfIUfFn5Abw">Como instalar MySQL e PHPMyAdmin com Docker</a><br/>Jun 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
