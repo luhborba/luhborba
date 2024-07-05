@@ -65,16 +65,16 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=348dbGlqwzw"><img width="140px" src="https://i.ytimg.com/vi/348dbGlqwzw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5ZtWK7KzKEE"><img width="140px" src="https://i.ytimg.com/vi/5ZtWK7KzKEE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5ZtWK7KzKEE">Noite de Preparação do Desbravando Git</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bCASpgYytGU"><img width="140px" src="https://i.ytimg.com/vi/bCASpgYytGU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bCASpgYytGU">Dica de Livro</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dUn40FOWI8E"><img width="140px" src="https://i.ytimg.com/vi/dUn40FOWI8E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dUn40FOWI8E">Streamlit para Visualização de Dados</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=348dbGlqwzw"><img width="140px" src="https://i.ytimg.com/vi/348dbGlqwzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=348dbGlqwzw">Nova Câmera para as gravações do Canal ✌️🚀 Logitech Brio 100</a><br/>Jul 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84"><img width="140px" src="https://i.ytimg.com/vi/BPQ_hiDLc84/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84">Desbravando Git e GitHub</a><br/>Jul 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Eg0ioiNfZvM"><img width="140px" src="https://i.ytimg.com/vi/Eg0ioiNfZvM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Eg0ioiNfZvM">Motivacional da Segunda - Quem você Sonha Ser</a><br/>Jul 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A"><img width="140px" src="https://i.ytimg.com/vi/X0fSJypcK9A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X0fSJypcK9A">Treinamentos para Área de Dados - Finalmente lancei meu Site - LR Data</a><br/>Jun 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es"><img width="140px" src="https://i.ytimg.com/vi/XXE-QPoY4es/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XXE-QPoY4es">Utilizando Data Lake com MinIO e DuckDB  com Docker</a><br/>Jun 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
