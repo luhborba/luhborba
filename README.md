@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5ZtWK7KzKEE"><img width="140px" src="https://i.ytimg.com/vi/5ZtWK7KzKEE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vd2rkCgcyzs"><img width="140px" src="https://i.ytimg.com/vi/vd2rkCgcyzs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vd2rkCgcyzs">Brincadeira da Tarde 🎉✌️🤪</a><br/>Jul 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5ZtWK7KzKEE"><img width="140px" src="https://i.ytimg.com/vi/5ZtWK7KzKEE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ZtWK7KzKEE">Noite de Preparação do Desbravando Git</a><br/>Jul 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bCASpgYytGU"><img width="140px" src="https://i.ytimg.com/vi/bCASpgYytGU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bCASpgYytGU">Dica de Livro</a><br/>Jul 4, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=dUn40FOWI8E">Streamlit para Visualização de Dados</a><br/>Jul 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=348dbGlqwzw"><img width="140px" src="https://i.ytimg.com/vi/348dbGlqwzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=348dbGlqwzw">Nova Câmera para as gravações do Canal ✌️🚀 Logitech Brio 100</a><br/>Jul 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84"><img width="140px" src="https://i.ytimg.com/vi/BPQ_hiDLc84/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BPQ_hiDLc84">Desbravando Git e GitHub</a><br/>Jul 2, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
