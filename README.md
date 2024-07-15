@@ -65,16 +65,16 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1ChMpvQnuic"><img width="140px" src="https://i.ytimg.com/vi/1ChMpvQnuic/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY"><img width="140px" src="https://i.ytimg.com/vi/nHbkMPUL8rY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY">Noite de Domingo, preparando aulas #Bora #shrots #streamlit</a><br/>Jul 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4"><img width="140px" src="https://i.ytimg.com/vi/quEHUvjbDv4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4">Aprenda a Versionar código #shorts #git #github #dados</a><br/>Jul 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1ChMpvQnuic"><img width="140px" src="https://i.ytimg.com/vi/1ChMpvQnuic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1ChMpvQnuic">Aprenda Streamlit #shorts #Streamlit #dataviz #bi</a><br/>Jul 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xvieKFwa7FA"><img width="140px" src="https://i.ytimg.com/vi/xvieKFwa7FA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xvieKFwa7FA">Aprenda a usar Git e Git Hub - #Shorts #AulasAoVivo</a><br/>Jul 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k0mpGcMneEk"><img width="140px" src="https://i.ytimg.com/vi/k0mpGcMneEk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k0mpGcMneEk">Sábado é dia de aprendizado #JornadaDeDados #DataEngineer</a><br/>Jul 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2cls_cvDr9Y"><img width="140px" src="https://i.ytimg.com/vi/2cls_cvDr9Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2cls_cvDr9Y">Brincando com Airbyte</a><br/>Jul 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Vb6ErmK8YTk"><img width="140px" src="https://i.ytimg.com/vi/Vb6ErmK8YTk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Vb6ErmK8YTk">Você envia código por email? Aprenda a Usar Git e GitHub</a><br/>Jul 9, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
