@@ -65,16 +65,16 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FG-NPFV7AYI"><img width="140px" src="https://i.ytimg.com/vi/FG-NPFV7AYI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bgRaD06tcFg"><img width="140px" src="https://i.ytimg.com/vi/bgRaD06tcFg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bgRaD06tcFg">1° Simpósio Estadual de Saúde Digital - Part2</a><br/>Jul 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7L5QaNxZNXM"><img width="140px" src="https://i.ytimg.com/vi/7L5QaNxZNXM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7L5QaNxZNXM">1° Simpósio Estadual de Saúde Digital da Paraíba</a><br/>Jul 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FG-NPFV7AYI"><img width="140px" src="https://i.ytimg.com/vi/FG-NPFV7AYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FG-NPFV7AYI">Você Conhece o FrameWork Web Python Taipy?</a><br/>Jul 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY"><img width="140px" src="https://i.ytimg.com/vi/nHbkMPUL8rY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY">Noite de Domingo, preparando aulas #Bora #shrots #streamlit</a><br/>Jul 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4"><img width="140px" src="https://i.ytimg.com/vi/quEHUvjbDv4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4">Aprenda a Versionar código #shorts #git #github #dados</a><br/>Jul 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1ChMpvQnuic"><img width="140px" src="https://i.ytimg.com/vi/1ChMpvQnuic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ChMpvQnuic">Aprenda Streamlit #shorts #Streamlit #dataviz #bi</a><br/>Jul 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xvieKFwa7FA"><img width="140px" src="https://i.ytimg.com/vi/xvieKFwa7FA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xvieKFwa7FA">Aprenda a usar Git e Git Hub - #Shorts #AulasAoVivo</a><br/>Jul 13, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
