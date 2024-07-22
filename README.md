@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bgRaD06tcFg"><img width="140px" src="https://i.ytimg.com/vi/bgRaD06tcFg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=me7K49u4lR4"><img width="140px" src="https://i.ytimg.com/vi/me7K49u4lR4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=me7K49u4lR4">Revivendo Conceitos de Python com a Jornada de Dados</a><br/>Jul 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bgRaD06tcFg"><img width="140px" src="https://i.ytimg.com/vi/bgRaD06tcFg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bgRaD06tcFg">1° Simpósio Estadual de Saúde Digital - Part2</a><br/>Jul 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7L5QaNxZNXM"><img width="140px" src="https://i.ytimg.com/vi/7L5QaNxZNXM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7L5QaNxZNXM">1° Simpósio Estadual de Saúde Digital da Paraíba</a><br/>Jul 19, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=FG-NPFV7AYI">Você Conhece o FrameWork Web Python Taipy?</a><br/>Jul 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY"><img width="140px" src="https://i.ytimg.com/vi/nHbkMPUL8rY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nHbkMPUL8rY">Noite de Domingo, preparando aulas #Bora #shrots #streamlit</a><br/>Jul 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4"><img width="140px" src="https://i.ytimg.com/vi/quEHUvjbDv4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=quEHUvjbDv4">Aprenda a Versionar código #shorts #git #github #dados</a><br/>Jul 14, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
