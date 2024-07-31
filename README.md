@@ -65,7 +65,9 @@
 
 ## 📺 Vídeos Recentes
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA"><img width="140px" src="https://i.ytimg.com/vi/qo16C_iOIJA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk"><img width="140px" src="https://i.ytimg.com/vi/XbUqbRNh8gk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk">Não seja ferramenteiro #estruturadedados #dataengineer</a><br/>Jul 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA"><img width="140px" src="https://i.ytimg.com/vi/qo16C_iOIJA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA">Enfrente o novo</a><br/>Jul 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bg-C_Z0ngO8"><img width="140px" src="https://i.ytimg.com/vi/Bg-C_Z0ngO8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bg-C_Z0ngO8">Atenção ao que você consome diariamente</a><br/>Jul 27, 2024</td></tr></table>
@@ -73,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=t1-WEY-55SE">Pague o Preço</a><br/>Jul 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iyX43o3hE88"><img width="140px" src="https://i.ytimg.com/vi/iyX43o3hE88/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iyX43o3hE88">Nunca Desista, siga em frente</a><br/>Jul 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=me7K49u4lR4"><img width="140px" src="https://i.ytimg.com/vi/me7K49u4lR4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=me7K49u4lR4">Revivendo Conceitos de Python com a Jornada de Dados</a><br/>Jul 21, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
