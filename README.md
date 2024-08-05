@@ -2,11 +2,11 @@
 <h3 align="center">Sou Engenheiro de Dados</h3>
 
 - 🔭 Atualmente estou trabalhando na Secretaria de Saúde do Estado da Paraíba **Engenheiro de Dados**
-- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Analytics Engineer, Data Analytics, Apache Airflow, Docker, SQL e Python**
-- 📚 Atualmente estou estudando e praticando bastante sobre  **Testes, CI/CD, PySpark, Databricks**
+- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Data Engineer, Analytics Engineer, Apache Airflow, Docker, SQL e Python**
+- 📚 Atualmente estou estudando e praticando bastante sobre  **GCP, Testes e CI/CD**
 - 👯 Atualmente colaboro com atividade de Integraçao de Sistemas **na Gerencia de Tecnologia da Informação**
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
-- 💬 Pergunte-me sobre **Python, Django, Pentaho, ETL, SQL, Docker e Airflow**
+- 💬 Pergunte-me sobre **Python, SQL, ELT/ETL, Docker e Airflow**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
 - 🌐	Acesse minha página pessoal: [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
 ![Imagem Portifolio](/assets/portifolio.png)
@@ -19,16 +19,19 @@
   -  Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [2022-2023]
   -  Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [2023]
   -  Desenvolvimento de Sistema para Internação Hospitalar ( Python + Django ) [2023]
-  -  Product Manager de Sistmea de Processo Seletivo para Saúde (Java + Spring) [2024 - Até o Momento]
+  -  Product Manager de Sistmea de Processo Seletivo para Saúde (Java + Spring) [2024]
   -  Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ), implantação realizada com sucesso em 3 Hospitais Municipais, 4 UPAS, 203 Equipes de Atenção Primária, 5 Policlinicas, Todas as Farmácias e Laboratórios Municipais [2022 - 2024]
+  -  Construção e Manutenção da **Rede Estadual de Dados em Saúde** do **Governo do Estado da Paraíba** [2024]
+  -  Implantação de Ferramenta de Orquestração e Ingestão de Dados na **Secretaria Municipal de Saúde de João Pessoa** e **Secretaria Estadual de Saúde da Paraíba** (Apache Airflow-Airbyte) [2024]
+  -  Implantação de Projeto de Data Quality na **Secretaria Municipal de Saúde de João Pessoa** [2023-2024]
 
 ## Hard Skills:
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (PL-SQL), MySQL, PostgreSQL, DuckDB
 - Modelagem: Relacional, Dimensional
-- Ferramentas de ETL: Pentaho, Integration Services
+- Ferramentas de ETL: Pentaho, Integration Services, Python
 - Ferramentas de Orquestração: Apache Airflow
 - Ferramentas de Dataviz: Apache Superset, Streamlit, Power BI, Python Plotly, Python Matplotlib, Python Seaborn
-- Ferramentas de apoio: Excel, Git, Python para dados
+- Ferramentas de apoio: Excel, Git, Python
 - Ferramenta de Container: Docker
 
 ## Soft Skills:
@@ -79,16 +82,13 @@
 
 <div>
   
-## Minhas Estatísticas do GitHub
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luhborba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luhborba&show_icons=true&theme=shadow_blue)
-
-## Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luhborba&layout=compact&theme=shadow_blue)
-
-## Resumo das Contribuições
-
-![Resumo das Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=luhborba&theme=shadow_blue)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=luhborba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Visualizações ao Meu Pefil
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=luhborba&color=blueviolet)
