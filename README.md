@@ -8,8 +8,9 @@
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 - 💬 Pergunte-me sobre **Python, SQL, ELT/ETL, Docker e Airflow**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
-- 🌐	Acesse minha página pessoal: [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
-![Imagem Portifolio](/assets/portifolio.png)
+- 🌐	Acesse minha página pessoal: [https://lrdata.mailchimpsites.com](https://lrdata.mailchimpsites.com)
+- 🌐	Acesse meu Portifólio [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
+
 
 <h3 align="left">Projetos Relevantes na Carreira:</h3>
 
