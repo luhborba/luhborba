@@ -68,6 +68,8 @@
 
 ## 📺 Vídeos Recentes
 
+-- Adicionado Automaticamente através do GitHub Actions --
+
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk"><img width="140px" src="https://i.ytimg.com/vi/XbUqbRNh8gk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk">Não seja ferramenteiro #estruturadedados #dataengineer</a><br/>Jul 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA"><img width="140px" src="https://i.ytimg.com/vi/qo16C_iOIJA/mqdefault.jpg"></a></td>
