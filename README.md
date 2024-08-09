@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mwfR9m7tO-o"><img width="140px" src="https://i.ytimg.com/vi/mwfR9m7tO-o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Pz-uNQxi_ww"><img width="140px" src="https://i.ytimg.com/vi/Pz-uNQxi_ww/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Pz-uNQxi_ww">Noite de Edição  #dataengineer #streamlit #python #dataviz #plotly</a><br/>Aug 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mwfR9m7tO-o"><img width="140px" src="https://i.ytimg.com/vi/mwfR9m7tO-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mwfR9m7tO-o">Apenas Faça #dataengineer</a><br/>Aug 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lb-jyix9KVI"><img width="140px" src="https://i.ytimg.com/vi/lb-jyix9KVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lb-jyix9KVI">Domingo também é dia #gcp #dataengineer</a><br/>Aug 4, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk">Não seja ferramenteiro #estruturadedados #dataengineer</a><br/>Jul 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA"><img width="140px" src="https://i.ytimg.com/vi/qo16C_iOIJA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qo16C_iOIJA">Enfrente o novo</a><br/>Jul 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Bg-C_Z0ngO8"><img width="140px" src="https://i.ytimg.com/vi/Bg-C_Z0ngO8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bg-C_Z0ngO8">Atenção ao que você consome diariamente</a><br/>Jul 27, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
