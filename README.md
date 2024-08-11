@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c_Zg5y1f_-E"><img width="140px" src="https://i.ytimg.com/vi/c_Zg5y1f_-E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VtZ6sDOiX0M"><img width="140px" src="https://i.ytimg.com/vi/VtZ6sDOiX0M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VtZ6sDOiX0M">Hoje é dia de Jornada #dataengineer</a><br/>Aug 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c_Zg5y1f_-E"><img width="140px" src="https://i.ytimg.com/vi/c_Zg5y1f_-E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c_Zg5y1f_-E">Streamlit - Conheça a plataforma do Curso</a><br/>Aug 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Pz-uNQxi_ww"><img width="140px" src="https://i.ytimg.com/vi/Pz-uNQxi_ww/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Pz-uNQxi_ww">Noite de Edição  #dataengineer #streamlit #python #dataviz #plotly</a><br/>Aug 8, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=mwfR9m7tO-o">Apenas Faça #dataengineer</a><br/>Aug 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lb-jyix9KVI"><img width="140px" src="https://i.ytimg.com/vi/lb-jyix9KVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lb-jyix9KVI">Domingo também é dia #gcp #dataengineer</a><br/>Aug 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk"><img width="140px" src="https://i.ytimg.com/vi/XbUqbRNh8gk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XbUqbRNh8gk">Não seja ferramenteiro #estruturadedados #dataengineer</a><br/>Jul 30, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
