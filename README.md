@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Yhz0sidYsZ8"><img width="140px" src="https://i.ytimg.com/vi/Yhz0sidYsZ8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pTRETwBo3lY"><img width="140px" src="https://i.ytimg.com/vi/pTRETwBo3lY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pTRETwBo3lY">Acesse o vídeo e conheça o curso #dataengineer #databricks</a><br/>Aug 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rqUs1ybHC_U"><img width="140px" src="https://i.ytimg.com/vi/rqUs1ybHC_U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rqUs1ybHC_U">Data Engineer deve conhecer Ferramenta de DataViz? #dataengineer    #datavisualization #Data</a><br/>Aug 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Yhz0sidYsZ8"><img width="140px" src="https://i.ytimg.com/vi/Yhz0sidYsZ8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yhz0sidYsZ8">O Curso de Engenharia de Dados da DATACEMENT vale a pena? é bom?  funciona?</a><br/>Aug 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sDe-jThbynk"><img width="140px" src="https://i.ytimg.com/vi/sDe-jThbynk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sDe-jThbynk">Foco em Solução #dataengineer #Data #dados #python #bi</a><br/>Aug 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jvzXMk1DBjA"><img width="140px" src="https://i.ytimg.com/vi/jvzXMk1DBjA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jvzXMk1DBjA">Seja Forte e Corajoso 💪</a><br/>Aug 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VtZ6sDOiX0M"><img width="140px" src="https://i.ytimg.com/vi/VtZ6sDOiX0M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VtZ6sDOiX0M">Hoje é dia de Jornada #dataengineer</a><br/>Aug 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c_Zg5y1f_-E"><img width="140px" src="https://i.ytimg.com/vi/c_Zg5y1f_-E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c_Zg5y1f_-E">Streamlit - Conheça a plataforma do Curso</a><br/>Aug 9, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
