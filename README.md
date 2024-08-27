@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tfztw5utr0c"><img width="140px" src="https://i.ytimg.com/vi/tfztw5utr0c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=llTGtrkV8AA"><img width="140px" src="https://i.ytimg.com/vi/llTGtrkV8AA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=llTGtrkV8AA">Foque na solução, não em ferramenta #dataengineering #engenhariadedados</a><br/>Aug 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tfztw5utr0c"><img width="140px" src="https://i.ytimg.com/vi/tfztw5utr0c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tfztw5utr0c">Como Fazer Deploy com Docker  AWS, Azure e GPC</a><br/>Aug 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2hL4mxUbO-U"><img width="140px" src="https://i.ytimg.com/vi/2hL4mxUbO-U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2hL4mxUbO-U">Desenvolvendo Testes com TDD  Criação de Dados Simulados</a><br/>Aug 22, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=Wv6h3Ec-Tk4">Enfrente seus medos 💪🥇👏</a><br/>Aug 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MkzDMVrRvqU"><img width="140px" src="https://i.ytimg.com/vi/MkzDMVrRvqU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MkzDMVrRvqU">Domine TDD  Faça Testes de Esquema com Sucesso</a><br/>Aug 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pTRETwBo3lY"><img width="140px" src="https://i.ytimg.com/vi/pTRETwBo3lY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pTRETwBo3lY">Acesse o vídeo e conheça o curso #dataengineer #databricks</a><br/>Aug 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
