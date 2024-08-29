@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U3DB9LWq9Bg"><img width="140px" src="https://i.ytimg.com/vi/U3DB9LWq9Bg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6vapobVcL4U"><img width="140px" src="https://i.ytimg.com/vi/6vapobVcL4U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6vapobVcL4U">Pydeck para plotagem de mapas #streamlit #python #pydeck #dataviz</a><br/>Aug 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=U3DB9LWq9Bg"><img width="140px" src="https://i.ytimg.com/vi/U3DB9LWq9Bg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U3DB9LWq9Bg">Curso Streamlit - Gráficos de Mapa com Streamlit e Pydeck</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NJT-4XqUMS8"><img width="140px" src="https://i.ytimg.com/vi/NJT-4XqUMS8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NJT-4XqUMS8">Feito é melhor que perfeito #engenhariadedados #humor  #datavisualization #streamlit #datascience</a><br/>Aug 27, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=llTGtrkV8AA">Foque na solução, não em ferramenta #dataengineering #engenhariadedados</a><br/>Aug 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tfztw5utr0c"><img width="140px" src="https://i.ytimg.com/vi/tfztw5utr0c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tfztw5utr0c">Como Fazer Deploy com Docker  AWS, Azure e GPC</a><br/>Aug 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2hL4mxUbO-U"><img width="140px" src="https://i.ytimg.com/vi/2hL4mxUbO-U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2hL4mxUbO-U">Desenvolvendo Testes com TDD  Criação de Dados Simulados</a><br/>Aug 22, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
