@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qEY19LeGfbo"><img width="140px" src="https://i.ytimg.com/vi/qEY19LeGfbo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e9qBcyVJvTM"><img width="140px" src="https://i.ytimg.com/vi/e9qBcyVJvTM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e9qBcyVJvTM">Sextou</a><br/>Sep 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qEY19LeGfbo"><img width="140px" src="https://i.ytimg.com/vi/qEY19LeGfbo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qEY19LeGfbo">Meu cantinho está quase pronto 💪🚀</a><br/>Sep 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6vapobVcL4U"><img width="140px" src="https://i.ytimg.com/vi/6vapobVcL4U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6vapobVcL4U">Pydeck para plotagem de mapas #streamlit #python #pydeck #dataviz</a><br/>Aug 28, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=U3DB9LWq9Bg">Curso Streamlit - Gráficos de Mapa com Streamlit e Pydeck</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NJT-4XqUMS8"><img width="140px" src="https://i.ytimg.com/vi/NJT-4XqUMS8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NJT-4XqUMS8">Feito é melhor que perfeito #engenhariadedados #humor  #datavisualization #streamlit #datascience</a><br/>Aug 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=llTGtrkV8AA"><img width="140px" src="https://i.ytimg.com/vi/llTGtrkV8AA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=llTGtrkV8AA">Foque na solução, não em ferramenta #dataengineering #engenhariadedados</a><br/>Aug 26, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
