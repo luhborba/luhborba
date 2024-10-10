@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=brhUYACN6yE"><img width="140px" src="https://i.ytimg.com/vi/brhUYACN6yE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N3y2mq6y-Ak"><img width="140px" src="https://i.ytimg.com/vi/N3y2mq6y-Ak/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N3y2mq6y-Ak">O que é o Apache Beam? Como Funciona o Apache Beam? O Apache Beam é Bom?</a><br/>Oct 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=brhUYACN6yE"><img width="140px" src="https://i.ytimg.com/vi/brhUYACN6yE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=brhUYACN6yE">Noite de Estudos  #engenhariadedados #udemy #apachebeam #cassiobolba</a><br/>Oct 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uczOcIzQD_g"><img width="140px" src="https://i.ytimg.com/vi/uczOcIzQD_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uczOcIzQD_g">Descubra o Fabric  A Plataforma Completa de Dados</a><br/>Oct 6, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=Jw8SK4KHXeo">Descubra o Microsoft Fabric  Minhas Impressões e Aprendizados</a><br/>Oct 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bPM-1E_CghE"><img width="140px" src="https://i.ytimg.com/vi/bPM-1E_CghE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bPM-1E_CghE">Descubra o One Lake  A Revolução da Microsoft!</a><br/>Oct 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3lNHNbO63Ys"><img width="140px" src="https://i.ytimg.com/vi/3lNHNbO63Ys/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3lNHNbO63Ys">GoHorse e metodológicas #engenhariadedados #python</a><br/>Sep 23, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
