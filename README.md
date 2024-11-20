@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aXwAfO2e9RU"><img width="140px" src="https://i.ytimg.com/vi/aXwAfO2e9RU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PWOe2DYTcAI"><img width="140px" src="https://i.ytimg.com/vi/PWOe2DYTcAI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PWOe2DYTcAI">SQL para Engenharia de Dados</a><br/>Nov 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aXwAfO2e9RU"><img width="140px" src="https://i.ytimg.com/vi/aXwAfO2e9RU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aXwAfO2e9RU">Documentando Meu Aprendizado com Novas Ferramentas #dataflow</a><br/>Oct 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4g3wxtouwEQ"><img width="140px" src="https://i.ytimg.com/vi/4g3wxtouwEQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4g3wxtouwEQ">Como Usar Google Cloud Dataflow para BigQuery</a><br/>Oct 29, 2024</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=l0xzisAQ5gk">Como usar o Google Cloud DataFlow? Primeiros passos com DataFlow &lpar;Template&rpar;</a><br/>Oct 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BGd7MaqVC4c"><img width="140px" src="https://i.ytimg.com/vi/BGd7MaqVC4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BGd7MaqVC4c">Bora para mais um dia 🙏💪🚀</a><br/>Oct 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-_Uzj6tr9wY"><img width="140px" src="https://i.ytimg.com/vi/-_Uzj6tr9wY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-_Uzj6tr9wY">O que é Engenharia de Dados? O que faz um Engenheiro de Dados? Introdução</a><br/>Oct 17, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
