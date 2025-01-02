@@ -1,10 +1,10 @@
 <h1 align="center">Ola 👋, Eu sou Luciano Borba</h1>
 <h3 align="center">Sou Engenheiro de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando na Secretaria de Saúde do Estado da Paraíba **Engenheiro de Dados**
-- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Business Intelligence, Data Engineer, Analytics Engineer, Apache Airflow, Docker, SQL e Python**
-- 📚 Atualmente estou estudando e praticando bastante sobre  **GCP, Testes e CI/CD**
-- 👯 Atualmente colaboro com atividade de Integraçao de Sistemas **na Gerencia de Tecnologia da Informação**
+- 🔭 Atualmente estou trabalhando na Eletrobras Chesf **Engenheiro de Dados II**
+- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Data Engineer, Analytics Engineer, GCP, Apache Airflow, Docker, SQL e Python**
+- 📚 Atualmente estou estudando e praticando bastante sobre  **Testes e CI/CD**
+- 👯 Atualmente colaboro com atividade de Analytics **no Centro de Serviço Compartilhado**
 - 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
 - 💬 Pergunte-me sobre **Python, SQL, ELT/ETL, Docker e Airflow**
 - 📫 Me ache através do email: **luhborbafilho@gmail.com**
