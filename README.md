@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NmWvX8dhJ5Q"><img width="140px" src="https://i.ytimg.com/vi/NmWvX8dhJ5Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cFX8_L2drQ4"><img width="140px" src="https://i.ytimg.com/vi/cFX8_L2drQ4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cFX8_L2drQ4">Ultimas chamadas live GCP #dataengineering #engineering #dataengineer #bigquery</a><br/>Jan 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NmWvX8dhJ5Q"><img width="140px" src="https://i.ytimg.com/vi/NmWvX8dhJ5Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NmWvX8dhJ5Q">Live de GCP com Especialista Thales Rudolph</a><br/>Jan 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc"><img width="140px" src="https://i.ytimg.com/vi/1ltN9KxJYUc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc">Live - Poder do Google Cloud Platform para o Profissional de Dados</a><br/>Jan 15, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=D5B73oGCXPE">Um pouco de GCP na noite  #engineering #dataengineering #gcp #bigquery</a><br/>Jan 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vDMmTCxMq30"><img width="140px" src="https://i.ytimg.com/vi/vDMmTCxMq30/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vDMmTCxMq30">Conteúdos para um Engenheiro de Dados em 2025 #dataengineering #engineering #dicas #dataengineer</a><br/>Jan 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oDPqB_X1M2U"><img width="140px" src="https://i.ytimg.com/vi/oDPqB_X1M2U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oDPqB_X1M2U">Benefícios de Dominar SQL #SQL #DATA #engineering</a><br/>Jan 2, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
