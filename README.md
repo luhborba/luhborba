@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4"><img width="140px" src="https://i.ytimg.com/vi/QJY4uTqsSe4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI"><img width="140px" src="https://i.ytimg.com/vi/e2KcnW5i3pI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI">Microsoft Fabric - Warehouse x Lakehouse #Fabric #DataEngineering</a><br/>Feb 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4"><img width="140px" src="https://i.ytimg.com/vi/QJY4uTqsSe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4">Porque usar Streamlit? O que é Streamlit?</a><br/>Jan 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc"><img width="140px" src="https://i.ytimg.com/vi/1ltN9KxJYUc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc">Live - Poder do Google Cloud Platform para o Profissional de Dados</a><br/>Jan 29, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=cFX8_L2drQ4">Ultimas chamadas live GCP #dataengineering #engineering #dataengineer #bigquery</a><br/>Jan 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NmWvX8dhJ5Q"><img width="140px" src="https://i.ytimg.com/vi/NmWvX8dhJ5Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NmWvX8dhJ5Q">Live de GCP com Especialista Thales Rudolph</a><br/>Jan 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=D5B73oGCXPE"><img width="140px" src="https://i.ytimg.com/vi/D5B73oGCXPE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=D5B73oGCXPE">Um pouco de GCP na noite  #engineering #dataengineering #gcp #bigquery</a><br/>Jan 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
