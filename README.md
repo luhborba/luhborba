@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o"><img width="140px" src="https://i.ytimg.com/vi/VD6ZAlLyd3o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U"><img width="140px" src="https://i.ytimg.com/vi/xpIaS6hS68U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U">Power BI:  Solução ou Bomba-relógio?</a><br/>Feb 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sPKLc9fOQTw"><img width="140px" src="https://i.ytimg.com/vi/sPKLc9fOQTw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sPKLc9fOQTw">Power BI: Opinião #powerbi #bi #analisededados #engenhariadedados</a><br/>Feb 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o"><img width="140px" src="https://i.ytimg.com/vi/VD6ZAlLyd3o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o">Live - Entendendo o Microsoft Fabric com Luiz Santana e Diego Scalioni</a><br/>Feb 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI"><img width="140px" src="https://i.ytimg.com/vi/e2KcnW5i3pI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI">Microsoft Fabric - Warehouse x Lakehouse #Fabric #DataEngineering</a><br/>Feb 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4"><img width="140px" src="https://i.ytimg.com/vi/QJY4uTqsSe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4">Porque usar Streamlit? O que é Streamlit?</a><br/>Jan 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc"><img width="140px" src="https://i.ytimg.com/vi/1ltN9KxJYUc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ltN9KxJYUc">Live - Poder do Google Cloud Platform para o Profissional de Dados</a><br/>Jan 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cFX8_L2drQ4"><img width="140px" src="https://i.ytimg.com/vi/cFX8_L2drQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cFX8_L2drQ4">Ultimas chamadas live GCP #dataengineering #engineering #dataengineer #bigquery</a><br/>Jan 28, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
