@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U"><img width="140px" src="https://i.ytimg.com/vi/xpIaS6hS68U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6FCc_b-4Mg8"><img width="140px" src="https://i.ytimg.com/vi/6FCc_b-4Mg8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6FCc_b-4Mg8">Conteúdo de Microsoft Fabric #dataengineering #engineering #dicas #dataengineer</a><br/>Feb 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U"><img width="140px" src="https://i.ytimg.com/vi/xpIaS6hS68U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U">Power BI:  Solução ou Bomba-relógio?</a><br/>Feb 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sPKLc9fOQTw"><img width="140px" src="https://i.ytimg.com/vi/sPKLc9fOQTw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sPKLc9fOQTw">Power BI: Opinião #powerbi #bi #analisededados #engenhariadedados</a><br/>Feb 6, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o">Live - Entendendo o Microsoft Fabric com Luiz Santana e Diego Scalioni</a><br/>Feb 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI"><img width="140px" src="https://i.ytimg.com/vi/e2KcnW5i3pI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e2KcnW5i3pI">Microsoft Fabric - Warehouse x Lakehouse #Fabric #DataEngineering</a><br/>Feb 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4"><img width="140px" src="https://i.ytimg.com/vi/QJY4uTqsSe4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QJY4uTqsSe4">Porque usar Streamlit? O que é Streamlit?</a><br/>Jan 30, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
