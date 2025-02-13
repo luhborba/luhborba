@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o"><img width="140px" src="https://i.ytimg.com/vi/VD6ZAlLyd3o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1u_shcoL9nE"><img width="140px" src="https://i.ytimg.com/vi/1u_shcoL9nE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1u_shcoL9nE">SQL Week Recife #dataengineering</a><br/>Feb 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o"><img width="140px" src="https://i.ytimg.com/vi/VD6ZAlLyd3o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VD6ZAlLyd3o">Live - Entendendo o Microsoft Fabric com Luiz Santana e Diego Scalioni</a><br/>Feb 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cNzCMHKDtYg"><img width="140px" src="https://i.ytimg.com/vi/cNzCMHKDtYg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cNzCMHKDtYg">Amanhã Live de Microsoft Fabric com Luiz Santana  e Diego Scalioni  #dataengineering #fabric</a><br/>Feb 10, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=E43IwfivxpY">Abertura do Canal</a><br/>Feb 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6FCc_b-4Mg8"><img width="140px" src="https://i.ytimg.com/vi/6FCc_b-4Mg8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6FCc_b-4Mg8">Conteúdo de Microsoft Fabric #dataengineering #engineering #dicas #dataengineer</a><br/>Feb 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U"><img width="140px" src="https://i.ytimg.com/vi/xpIaS6hS68U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xpIaS6hS68U">Power BI:  Solução ou Bomba-relógio?</a><br/>Feb 6, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
