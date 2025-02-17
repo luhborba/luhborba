@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IRTYkL1qHJc"><img width="140px" src="https://i.ytimg.com/vi/IRTYkL1qHJc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OXk0GGubzeI"><img width="140px" src="https://i.ytimg.com/vi/OXk0GGubzeI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OXk0GGubzeI">Agenda do Canal e Live de Apache Airfow #dataengineering #engineering #dataengineer</a><br/>Feb 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IRTYkL1qHJc"><img width="140px" src="https://i.ytimg.com/vi/IRTYkL1qHJc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IRTYkL1qHJc">Live - Mundo Qlik - Uma Plataforma de Dados</a><br/>Feb 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cd62umMSliQ"><img width="140px" src="https://i.ytimg.com/vi/cd62umMSliQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cd62umMSliQ">Live - Ferramentas de ETL para Profissionais de Dados</a><br/>Feb 15, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=4YMtCXM-_BU">Live - O Futuro da Engenharia de Dados com Romerito Morais</a><br/>Feb 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GI83sXqn6Rw"><img width="140px" src="https://i.ytimg.com/vi/GI83sXqn6Rw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GI83sXqn6Rw">Live - Apache Airflow no Mundo Real com Wallace Camargo</a><br/>Feb 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1u_shcoL9nE"><img width="140px" src="https://i.ytimg.com/vi/1u_shcoL9nE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1u_shcoL9nE">SQL Week Recife #dataengineering</a><br/>Feb 12, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
