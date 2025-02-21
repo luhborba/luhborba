@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg"><img width="140px" src="https://i.ytimg.com/vi/1Mnpeobixxg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg"><img width="140px" src="https://i.ytimg.com/vi/UbbvKp9-qDg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg">Gerando conteúdo, pagando o preço #dataengineering #engineering</a><br/>Feb 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg"><img width="140px" src="https://i.ytimg.com/vi/1Mnpeobixxg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg">Engenharia de Dados + Engenharia de Software #dataengineering #engineering #dataengineer #tecnologia</a><br/>Feb 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE"><img width="140px" src="https://i.ytimg.com/vi/1TfvmAaqLNE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE">Live - Apache Airflow no Mundo Real com Wallace Camargo</a><br/>Feb 18, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=JRCAnB1scX0">Ouvindo dois grandes mestres, comecei a manhã na pegada #dataengineering #fabric</a><br/>Feb 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aowLRcjSXIo"><img width="140px" src="https://i.ytimg.com/vi/aowLRcjSXIo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aowLRcjSXIo">Dicas para quem quer iniciar na Engenharia de Dados #dataengineering</a><br/>Feb 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OXk0GGubzeI"><img width="140px" src="https://i.ytimg.com/vi/OXk0GGubzeI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OXk0GGubzeI">Agenda do Canal e Live de Apache Airfow #dataengineering #engineering #dataengineer</a><br/>Feb 16, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
