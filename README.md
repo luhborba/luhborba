@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE"><img width="140px" src="https://i.ytimg.com/vi/1TfvmAaqLNE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kBsufYEOagM"><img width="140px" src="https://i.ytimg.com/vi/kBsufYEOagM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kBsufYEOagM">Como Migrar para Carreira de Dados? #dataengineering  #dados #ebook  #analistadedados #dataanalytics</a><br/>Feb 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE"><img width="140px" src="https://i.ytimg.com/vi/1TfvmAaqLNE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE">Live - Apache Airflow no Mundo Real com Wallace Camargo</a><br/>Feb 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SaXVpo0RaLE"><img width="140px" src="https://i.ytimg.com/vi/SaXVpo0RaLE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SaXVpo0RaLE">Live de Airflow #dataengineering #engineering #dataengineer #Airflow</a><br/>Feb 24, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg">Gerando conteúdo, pagando o preço #dataengineering #engineering</a><br/>Feb 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg"><img width="140px" src="https://i.ytimg.com/vi/1Mnpeobixxg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg">Engenharia de Dados + Engenharia de Software #dataengineering #engineering #dataengineer #tecnologia</a><br/>Feb 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JRCAnB1scX0"><img width="140px" src="https://i.ytimg.com/vi/JRCAnB1scX0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JRCAnB1scX0">Ouvindo dois grandes mestres, comecei a manhã na pegada #dataengineering #fabric</a><br/>Feb 18, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
