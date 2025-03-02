@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kBsufYEOagM"><img width="140px" src="https://i.ytimg.com/vi/kBsufYEOagM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ"><img width="140px" src="https://i.ytimg.com/vi/JMkHlLC7GkQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ">Live - O Futuro da Engenharia de Dados</a><br/>Mar 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kBsufYEOagM"><img width="140px" src="https://i.ytimg.com/vi/kBsufYEOagM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kBsufYEOagM">Como Migrar para Carreira de Dados? #dataengineering  #dados #ebook  #analistadedados #dataanalytics</a><br/>Feb 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE"><img width="140px" src="https://i.ytimg.com/vi/1TfvmAaqLNE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE">Live - Apache Airflow no Mundo Real com Wallace Camargo</a><br/>Feb 26, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=SaXVpo0RaLE">Live de Airflow #dataengineering #engineering #dataengineer #Airflow</a><br/>Feb 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg"><img width="140px" src="https://i.ytimg.com/vi/UbbvKp9-qDg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg">Gerando conteúdo, pagando o preço #dataengineering #engineering</a><br/>Feb 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg"><img width="140px" src="https://i.ytimg.com/vi/1Mnpeobixxg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1Mnpeobixxg">Engenharia de Dados + Engenharia de Software #dataengineering #engineering #dataengineer #tecnologia</a><br/>Feb 19, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
