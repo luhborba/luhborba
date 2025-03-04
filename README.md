@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ"><img width="140px" src="https://i.ytimg.com/vi/JMkHlLC7GkQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7lPMqKAafQI"><img width="140px" src="https://i.ytimg.com/vi/7lPMqKAafQI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7lPMqKAafQI">Microfone Fifine AM8 #fifineam8 #fifine #microfones</a><br/>Mar 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ha3s-AzxTYw"><img width="140px" src="https://i.ytimg.com/vi/Ha3s-AzxTYw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ha3s-AzxTYw">COMO SE DESTACAR NA CARREIRA DE DADOS EM 2025</a><br/>Mar 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ"><img width="140px" src="https://i.ytimg.com/vi/JMkHlLC7GkQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ">Live - O Futuro da Engenharia de Dados</a><br/>Mar 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kBsufYEOagM"><img width="140px" src="https://i.ytimg.com/vi/kBsufYEOagM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kBsufYEOagM">Como Migrar para Carreira de Dados? #dataengineering  #dados #ebook  #analistadedados #dataanalytics</a><br/>Feb 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE"><img width="140px" src="https://i.ytimg.com/vi/1TfvmAaqLNE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1TfvmAaqLNE">Live - Apache Airflow no Mundo Real com Wallace Camargo</a><br/>Feb 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SaXVpo0RaLE"><img width="140px" src="https://i.ytimg.com/vi/SaXVpo0RaLE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SaXVpo0RaLE">Live de Airflow #dataengineering #engineering #dataengineer #Airflow</a><br/>Feb 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg"><img width="140px" src="https://i.ytimg.com/vi/UbbvKp9-qDg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UbbvKp9-qDg">Gerando conteúdo, pagando o preço #dataengineering #engineering</a><br/>Feb 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
