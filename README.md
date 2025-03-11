@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs"><img width="140px" src="https://i.ytimg.com/vi/Ugfnigxkihs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo"><img width="140px" src="https://i.ytimg.com/vi/ID0sV7XZ1Fo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo">LinkedIn  Como se Destacar e Prosperar na Rede</a><br/>Mar 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WG01wI-DG28"><img width="140px" src="https://i.ytimg.com/vi/WG01wI-DG28/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WG01wI-DG28">ETL do Zero: Ferramentas Essenciais para Engenharia de Dados</a><br/>Mar 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TqvTve6ordY"><img width="140px" src="https://i.ytimg.com/vi/TqvTve6ordY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TqvTve6ordY">🚀 Quer se destacar no mercado de dados?</a><br/>Mar 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs"><img width="140px" src="https://i.ytimg.com/vi/Ugfnigxkihs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs">NOVIDADES: LOGIN NATIVO DO STREAMLIT</a><br/>Mar 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xVj4A1H5Zng"><img width="140px" src="https://i.ytimg.com/vi/xVj4A1H5Zng/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xVj4A1H5Zng">📢 A VERDADE SOBRE POWER BI QUE NINGUÉM TE CONTA! 🚨  #dataanlysis</a><br/>Mar 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-6vUIJdAlxI"><img width="140px" src="https://i.ytimg.com/vi/-6vUIJdAlxI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-6vUIJdAlxI">Seus relatórios no Power BI podem estar ERRADOS e você nem verá! 😱</a><br/>Mar 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7lPMqKAafQI"><img width="140px" src="https://i.ytimg.com/vi/7lPMqKAafQI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7lPMqKAafQI">Microfone Fifine AM8 #fifineam8 #fifine #microfones</a><br/>Mar 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ha3s-AzxTYw"><img width="140px" src="https://i.ytimg.com/vi/Ha3s-AzxTYw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ha3s-AzxTYw">COMO SE DESTACAR NA CARREIRA DE DADOS EM 2025</a><br/>Mar 3, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
