@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo"><img width="140px" src="https://i.ytimg.com/vi/ID0sV7XZ1Fo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MaND4M3CX5E"><img width="140px" src="https://i.ytimg.com/vi/MaND4M3CX5E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MaND4M3CX5E">3 coisas para se destacar no mercado de dados</a><br/>Mar 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo"><img width="140px" src="https://i.ytimg.com/vi/ID0sV7XZ1Fo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo">LinkedIn  Como se Destacar e Prosperar na Rede</a><br/>Mar 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WG01wI-DG28"><img width="140px" src="https://i.ytimg.com/vi/WG01wI-DG28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WG01wI-DG28">ETL do Zero: Ferramentas Essenciais para Engenharia de Dados</a><br/>Mar 10, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=TqvTve6ordY">🚀 Quer se destacar no mercado de dados?</a><br/>Mar 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs"><img width="140px" src="https://i.ytimg.com/vi/Ugfnigxkihs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs">NOVIDADES: LOGIN NATIVO DO STREAMLIT</a><br/>Mar 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xVj4A1H5Zng"><img width="140px" src="https://i.ytimg.com/vi/xVj4A1H5Zng/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xVj4A1H5Zng">📢 A VERDADE SOBRE POWER BI QUE NINGUÉM TE CONTA! 🚨  #dataanlysis</a><br/>Mar 6, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
