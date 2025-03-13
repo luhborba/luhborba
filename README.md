@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MaND4M3CX5E"><img width="140px" src="https://i.ytimg.com/vi/MaND4M3CX5E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dBKdtrj7zdk"><img width="140px" src="https://i.ytimg.com/vi/dBKdtrj7zdk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dBKdtrj7zdk">O Perigo do Hype: Focar em Ferramentas ou Nas Bases da Engenharia de Dados?</a><br/>Mar 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pJIpH5Lv1ss"><img width="140px" src="https://i.ytimg.com/vi/pJIpH5Lv1ss/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pJIpH5Lv1ss">Como Se Destacar na Análise de Dados | Habilidades Essenciais Além das Ferramentas</a><br/>Mar 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ"><img width="140px" src="https://i.ytimg.com/vi/JMkHlLC7GkQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JMkHlLC7GkQ">Live - O Futuro da Engenharia de Dados</a><br/>Mar 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MaND4M3CX5E"><img width="140px" src="https://i.ytimg.com/vi/MaND4M3CX5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MaND4M3CX5E">3 coisas para se destacar no mercado de dados</a><br/>Mar 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo"><img width="140px" src="https://i.ytimg.com/vi/ID0sV7XZ1Fo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ID0sV7XZ1Fo">LinkedIn  Como se Destacar e Prosperar na Rede</a><br/>Mar 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WG01wI-DG28"><img width="140px" src="https://i.ytimg.com/vi/WG01wI-DG28/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WG01wI-DG28">ETL do Zero: Ferramentas Essenciais para Engenharia de Dados</a><br/>Mar 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TqvTve6ordY"><img width="140px" src="https://i.ytimg.com/vi/TqvTve6ordY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TqvTve6ordY">🚀 Quer se destacar no mercado de dados?</a><br/>Mar 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs"><img width="140px" src="https://i.ytimg.com/vi/Ugfnigxkihs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ugfnigxkihs">NOVIDADES: LOGIN NATIVO DO STREAMLIT</a><br/>Mar 7, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
