@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZpuBRmQhdGA"><img width="140px" src="https://i.ytimg.com/vi/ZpuBRmQhdGA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_YlWJXglEPc"><img width="140px" src="https://i.ytimg.com/vi/_YlWJXglEPc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_YlWJXglEPc">Destaque-se usando Streamlit na Área de Dados</a><br/>Mar 19, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZpuBRmQhdGA"><img width="140px" src="https://i.ytimg.com/vi/ZpuBRmQhdGA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZpuBRmQhdGA">Não corra atrás de tudo, isso não vai lhe ajudar</a><br/>Mar 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m-szXOpQcJw"><img width="140px" src="https://i.ytimg.com/vi/m-szXOpQcJw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m-szXOpQcJw">Vem muita coisa boa por ai</a><br/>Mar 18, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=LHy_7qQ5eBU">A IA Vai Substituir Seu Emprego na Área de Dados em 2025</a><br/>Mar 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eQf-rbzuSSo"><img width="140px" src="https://i.ytimg.com/vi/eQf-rbzuSSo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eQf-rbzuSSo">Eu Descobri o Segredo para Conquistar Oportunidades no Mercado de Dados</a><br/>Mar 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=V3CayVeQ02I"><img width="140px" src="https://i.ytimg.com/vi/V3CayVeQ02I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=V3CayVeQ02I">dicas essenciais para uso do ChatGPT para aprendizado</a><br/>Mar 16, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
