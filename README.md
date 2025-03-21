@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_YlWJXglEPc"><img width="140px" src="https://i.ytimg.com/vi/_YlWJXglEPc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KqdzMvlJxnk"><img width="140px" src="https://i.ytimg.com/vi/KqdzMvlJxnk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KqdzMvlJxnk">Preciso de faculdade para entrar na área de dados?</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gYxaBjc0M00"><img width="140px" src="https://i.ytimg.com/vi/gYxaBjc0M00/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gYxaBjc0M00">Se soubesse disso antes, minha carreira de dados teria sido completamente diferente #sql #python</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw"><img width="140px" src="https://i.ytimg.com/vi/mw7o7hNP9Tw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw">Live - Mundo Qlik</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=taLmP-uBVLo"><img width="140px" src="https://i.ytimg.com/vi/taLmP-uBVLo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=taLmP-uBVLo">Devo aprender SQL para entrar na área de dados?</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_YlWJXglEPc"><img width="140px" src="https://i.ytimg.com/vi/_YlWJXglEPc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_YlWJXglEPc">Destaque-se usando Streamlit na Área de Dados</a><br/>Mar 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZpuBRmQhdGA"><img width="140px" src="https://i.ytimg.com/vi/ZpuBRmQhdGA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZpuBRmQhdGA">Não corra atrás de tudo, isso não vai lhe ajudar</a><br/>Mar 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=m-szXOpQcJw"><img width="140px" src="https://i.ytimg.com/vi/m-szXOpQcJw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m-szXOpQcJw">Vem muita coisa boa por ai</a><br/>Mar 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LHy_7qQ5eBU"><img width="140px" src="https://i.ytimg.com/vi/LHy_7qQ5eBU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LHy_7qQ5eBU">A IA Vai Substituir Seu Emprego na Área de Dados em 2025</a><br/>Mar 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eQf-rbzuSSo"><img width="140px" src="https://i.ytimg.com/vi/eQf-rbzuSSo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eQf-rbzuSSo">Eu Descobri o Segredo para Conquistar Oportunidades no Mercado de Dados</a><br/>Mar 17, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
