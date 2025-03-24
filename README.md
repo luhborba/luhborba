@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ewC1ovKc0wc"><img width="140px" src="https://i.ytimg.com/vi/ewC1ovKc0wc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4-ja87qi13M"><img width="140px" src="https://i.ytimg.com/vi/4-ja87qi13M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4-ja87qi13M">Otimize seu perfil no LinkedIn para ter mais oportunidades</a><br/>Mar 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ewC1ovKc0wc"><img width="140px" src="https://i.ytimg.com/vi/ewC1ovKc0wc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ewC1ovKc0wc">Aprenda a se destacar para os profissionais de RH</a><br/>Mar 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KqdzMvlJxnk"><img width="140px" src="https://i.ytimg.com/vi/KqdzMvlJxnk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KqdzMvlJxnk">Preciso de faculdade para entrar na área de dados?</a><br/>Mar 20, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=gYxaBjc0M00">Se soubesse disso antes, minha carreira de dados teria sido completamente diferente #sql #python</a><br/>Mar 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw"><img width="140px" src="https://i.ytimg.com/vi/mw7o7hNP9Tw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw">Live - Mundo Qlik</a><br/>Mar 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=taLmP-uBVLo"><img width="140px" src="https://i.ytimg.com/vi/taLmP-uBVLo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=taLmP-uBVLo">Devo aprender SQL para entrar na área de dados?</a><br/>Mar 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
