@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7KyPSWGmPzA"><img width="140px" src="https://i.ytimg.com/vi/7KyPSWGmPzA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o"><img width="140px" src="https://i.ytimg.com/vi/leeRqfWWV2o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o">O Microsoft Fabric veio para Salvar o Power BI?</a><br/>Mar 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY"><img width="140px" src="https://i.ytimg.com/vi/rtuaDdRyQrY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY">SCD #engenhariadedados</a><br/>Mar 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7KyPSWGmPzA"><img width="140px" src="https://i.ytimg.com/vi/7KyPSWGmPzA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7KyPSWGmPzA">Esse vídeo é para você 🫵 #engenhariadedados #carreiraemdados</a><br/>Mar 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WG01wI-DG28"><img width="140px" src="https://i.ytimg.com/vi/WG01wI-DG28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WG01wI-DG28">ETL do Zero: Ferramentas Essenciais para Engenharia de Dados</a><br/>Mar 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2npT_vatr4M"><img width="140px" src="https://i.ytimg.com/vi/2npT_vatr4M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2npT_vatr4M">Engenharia de Dados e ChatGPT: O Erro Que Todo Iniciante Comete!</a><br/>Mar 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4-ja87qi13M"><img width="140px" src="https://i.ytimg.com/vi/4-ja87qi13M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4-ja87qi13M">Otimize seu perfil no LinkedIn para ter mais oportunidades</a><br/>Mar 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ewC1ovKc0wc"><img width="140px" src="https://i.ytimg.com/vi/ewC1ovKc0wc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ewC1ovKc0wc">Aprenda a se destacar para os profissionais de RH</a><br/>Mar 22, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
