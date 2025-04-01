@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o"><img width="140px" src="https://i.ytimg.com/vi/leeRqfWWV2o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eeWjmOcSEcE"><img width="140px" src="https://i.ytimg.com/vi/eeWjmOcSEcE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eeWjmOcSEcE">Método D.A.D.O.S - Aguarde Novidades - Sua Carreira de Dados Será Transformada</a><br/>Mar 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o"><img width="140px" src="https://i.ytimg.com/vi/leeRqfWWV2o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o">O Microsoft Fabric veio para Salvar o Power BI?</a><br/>Mar 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY"><img width="140px" src="https://i.ytimg.com/vi/rtuaDdRyQrY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY">SCD #engenhariadedados</a><br/>Mar 27, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=7KyPSWGmPzA">Esse vídeo é para você 🫵 #engenhariadedados #carreiraemdados</a><br/>Mar 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WG01wI-DG28"><img width="140px" src="https://i.ytimg.com/vi/WG01wI-DG28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WG01wI-DG28">ETL do Zero: Ferramentas Essenciais para Engenharia de Dados</a><br/>Mar 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2npT_vatr4M"><img width="140px" src="https://i.ytimg.com/vi/2npT_vatr4M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2npT_vatr4M">Engenharia de Dados e ChatGPT: O Erro Que Todo Iniciante Comete!</a><br/>Mar 24, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
