@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yHsEhI6uAPw"><img width="140px" src="https://i.ytimg.com/vi/yHsEhI6uAPw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2q6Aa0u0RpE"><img width="140px" src="https://i.ytimg.com/vi/2q6Aa0u0RpE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2q6Aa0u0RpE">A Fórmula da Autoridade de Dados - Conheça Já e seja uma Autoridade de Dados</a><br/>Apr 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yHsEhI6uAPw"><img width="140px" src="https://i.ytimg.com/vi/yHsEhI6uAPw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yHsEhI6uAPw">A Fórmula da Autoridade em Dados - Método D.A.D.O.S.</a><br/>Apr 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wj89PUcQvH8"><img width="140px" src="https://i.ytimg.com/vi/Wj89PUcQvH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wj89PUcQvH8">Eu Aprendi o Segredo do Mercado de Dados</a><br/>Apr 1, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=eeWjmOcSEcE">Método D.A.D.O.S - Aguarde Novidades - Sua Carreira de Dados Será Transformada</a><br/>Mar 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o"><img width="140px" src="https://i.ytimg.com/vi/leeRqfWWV2o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=leeRqfWWV2o">O Microsoft Fabric veio para Salvar o Power BI?</a><br/>Mar 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY"><img width="140px" src="https://i.ytimg.com/vi/rtuaDdRyQrY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rtuaDdRyQrY">SCD #engenhariadedados</a><br/>Mar 27, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
