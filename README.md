@@ -73,7 +73,7 @@
 -- Adicionado Automaticamente através do GitHub Actions --
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8"><img width="140px" src="https://i.ytimg.com/vi/XlgE8kWBGQ8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8">Método DADOS é o Segredo para uma Carreira de SUCESSO</a><br/>Apr 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8">Método DADOS é o Segredo para uma Carreira de SUCESSO</a><br/>Apr 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA"><img width="140px" src="https://i.ytimg.com/vi/e5M7PKY_HHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA">Pare de se sentir perdido: descubra o caminho certo na área de dados.</a><br/>Apr 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=015d1SuNfLQ"><img width="140px" src="https://i.ytimg.com/vi/015d1SuNfLQ/mqdefault.jpg"></a></td>
