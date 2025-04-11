@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8"><img width="140px" src="https://i.ytimg.com/vi/XlgE8kWBGQ8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DaFmlerhXec"><img width="140px" src="https://i.ytimg.com/vi/DaFmlerhXec/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DaFmlerhXec">Microsoft Fabric, Carreira em Dados e Power BI: Um Bate-Papo com Alison Pezzott</a><br/>Apr 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I"><img width="140px" src="https://i.ytimg.com/vi/2dANw6Gfu2I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I">Live - Data Contract Manager com Rodrigo TeORIA</a><br/>Apr 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw"><img width="140px" src="https://i.ytimg.com/vi/mw7o7hNP9Tw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw">Live - Mundo Qlik</a><br/>Apr 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8"><img width="140px" src="https://i.ytimg.com/vi/XlgE8kWBGQ8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8">Método DADOS é o Segredo para uma Carreira de SUCESSO</a><br/>Apr 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA"><img width="140px" src="https://i.ytimg.com/vi/e5M7PKY_HHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA">Pare de se sentir perdido: descubra o caminho certo na área de dados.</a><br/>Apr 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=015d1SuNfLQ"><img width="140px" src="https://i.ytimg.com/vi/015d1SuNfLQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=015d1SuNfLQ">Como Usar o ChatGPT para Aprender Mais Rápido na Área de Dados 🚀📊</a><br/>Apr 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xS3YviPNeyY"><img width="140px" src="https://i.ytimg.com/vi/xS3YviPNeyY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xS3YviPNeyY">Aumente Suas Oportunidades na Área de Dados</a><br/>Apr 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kXHPSrc6qUM"><img width="140px" src="https://i.ytimg.com/vi/kXHPSrc6qUM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kXHPSrc6qUM">Pare de ser mais um, conheça o método DADOS</a><br/>Apr 5, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
