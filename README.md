@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DaFmlerhXec"><img width="140px" src="https://i.ytimg.com/vi/DaFmlerhXec/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BbaD9OXhcug"><img width="140px" src="https://i.ytimg.com/vi/BbaD9OXhcug/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BbaD9OXhcug">Por que estudar não basta? A verdade sobre ganhar mais na área de dados</a><br/>Apr 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DaFmlerhXec"><img width="140px" src="https://i.ytimg.com/vi/DaFmlerhXec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaFmlerhXec">Microsoft Fabric, Carreira em Dados e Power BI: Um Bate-Papo com Alison Pezzott</a><br/>Apr 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I"><img width="140px" src="https://i.ytimg.com/vi/2dANw6Gfu2I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I">Live - Data Contract Manager com Rodrigo TeORIA</a><br/>Apr 10, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=mw7o7hNP9Tw">Live - Mundo Qlik</a><br/>Apr 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8"><img width="140px" src="https://i.ytimg.com/vi/XlgE8kWBGQ8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XlgE8kWBGQ8">Método DADOS é o Segredo para uma Carreira de SUCESSO</a><br/>Apr 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA"><img width="140px" src="https://i.ytimg.com/vi/e5M7PKY_HHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e5M7PKY_HHA">Pare de se sentir perdido: descubra o caminho certo na área de dados.</a><br/>Apr 7, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
