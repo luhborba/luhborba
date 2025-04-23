@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ooFtPwR6_tc"><img width="140px" src="https://i.ytimg.com/vi/ooFtPwR6_tc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wUSrRmAFXcI"><img width="140px" src="https://i.ytimg.com/vi/wUSrRmAFXcI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wUSrRmAFXcI">Saía da Síndrome do Estudante Eterno</a><br/>Apr 22, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ooFtPwR6_tc"><img width="140px" src="https://i.ytimg.com/vi/ooFtPwR6_tc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ooFtPwR6_tc">Como ser notado por recrutadores no LinkedIn em até 30 dias</a><br/>Apr 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KNabnrIa2es"><img width="140px" src="https://i.ytimg.com/vi/KNabnrIa2es/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KNabnrIa2es">Tem Profissionais de Dados que sabem muito e não se destacam #carreiraemdados</a><br/>Apr 20, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=BbaD9OXhcug">Por que estudar não basta? A verdade sobre ganhar mais na área de dados</a><br/>Apr 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DaFmlerhXec"><img width="140px" src="https://i.ytimg.com/vi/DaFmlerhXec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaFmlerhXec">Microsoft Fabric, Carreira em Dados e Power BI: Um Bate-Papo com Alison Pezzott</a><br/>Apr 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I"><img width="140px" src="https://i.ytimg.com/vi/2dANw6Gfu2I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I">Live - Data Contract Manager com Rodrigo TeORIA</a><br/>Apr 10, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
