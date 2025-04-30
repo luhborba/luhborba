@@ -72,14 +72,14 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EacaMzLjF44"><img width="140px" src="https://i.ytimg.com/vi/EacaMzLjF44/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EnC-dov6GIY"><img width="140px" src="https://i.ytimg.com/vi/EnC-dov6GIY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EnC-dov6GIY">Como Contar Histórias com Dados Usando Streamlit | Data Storytelling na Prática</a><br/>Apr 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EacaMzLjF44"><img width="140px" src="https://i.ytimg.com/vi/EacaMzLjF44/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EacaMzLjF44">Invisibilidade no Mercado de Dados - O Erro Fatal! - Método DADOS</a><br/>Apr 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sI__nuWNDwk"><img width="140px" src="https://i.ytimg.com/vi/sI__nuWNDwk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sI__nuWNDwk">LinkedIn - Seja Notado em 30 Dias Área de Dados</a><br/>Apr 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5nFzJVDJrtQ"><img width="140px" src="https://i.ytimg.com/vi/5nFzJVDJrtQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5nFzJVDJrtQ">Nunca desista, siga em frente. Método DADOS #engenhariadedados</a><br/>Apr 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EnC-dov6GIY"><img width="140px" src="https://i.ytimg.com/vi/EnC-dov6GIY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EnC-dov6GIY">Como Contar Histórias com Dados Usando Streamlit | Data Storytelling na Prática</a><br/>Apr 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I"><img width="140px" src="https://i.ytimg.com/vi/2dANw6Gfu2I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2dANw6Gfu2I">Conheça o Data Contract Manager e Governe Seus Dados com o Rodrigo TeOria</a><br/>Apr 24, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
