@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EnV2Sps3mZM"><img width="140px" src="https://i.ytimg.com/vi/EnV2Sps3mZM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NKZ6KWUvwxs"><img width="140px" src="https://i.ytimg.com/vi/NKZ6KWUvwxs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NKZ6KWUvwxs">A verdade sobre minha nova fase como cofundador de uma escola de dados</a><br/>May 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EnV2Sps3mZM"><img width="140px" src="https://i.ytimg.com/vi/EnV2Sps3mZM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EnV2Sps3mZM">Live com Sidney Cirqueira – Descomplicando o Microsoft Fabric com quem tá dentro da Microsoft</a><br/>May 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fH1ZfyEwwyQ"><img width="140px" src="https://i.ytimg.com/vi/fH1ZfyEwwyQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fH1ZfyEwwyQ">Live - Explorando Modelo Semantico - Microsoft Fabric</a><br/>May 26, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=pkO_HE-kEYc">Aprenda Dados com quem sabe - Data Driven School</a><br/>May 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DaFmlerhXec"><img width="140px" src="https://i.ytimg.com/vi/DaFmlerhXec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaFmlerhXec">Microsoft Fabric, Carreira em Dados e Power BI: Um Bate-Papo com Alison Pezzott</a><br/>May 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MHeEMrBVQ38"><img width="140px" src="https://i.ytimg.com/vi/MHeEMrBVQ38/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MHeEMrBVQ38">Você não precisa saber tudo pra começar a ser notado na área de dados</a><br/>May 12, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
