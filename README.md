@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/Tl8dj9Ff0ug"><img width="140px" src="https://i.ytimg.com/vi/Tl8dj9Ff0ug/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=O32tF7Tb-2I"><img width="140px" src="https://i.ytimg.com/vi/O32tF7Tb-2I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=O32tF7Tb-2I">DP-900: Tudo que Você Precisa Saber para Passar na Certificação</a><br/>Jun 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/Tl8dj9Ff0ug"><img width="140px" src="https://i.ytimg.com/vi/Tl8dj9Ff0ug/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Tl8dj9Ff0ug">O maior erro de quem começa em dados? Querer aprender tudo de uma vez. #engenhariadedados</a><br/>Jun 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EnV2Sps3mZM"><img width="140px" src="https://i.ytimg.com/vi/EnV2Sps3mZM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EnV2Sps3mZM">Live com Sidney Cirqueira – Descomplicando o Microsoft Fabric com quem tá dentro da Microsoft</a><br/>May 30, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=fH1ZfyEwwyQ">Live - Explorando Modelo Semantico - Microsoft Fabric</a><br/>May 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NKZ6KWUvwxs"><img width="140px" src="https://i.ytimg.com/vi/NKZ6KWUvwxs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NKZ6KWUvwxs">A verdade sobre minha nova fase como cofundador de uma escola de dados</a><br/>May 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/pkO_HE-kEYc"><img width="140px" src="https://i.ytimg.com/vi/pkO_HE-kEYc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/pkO_HE-kEYc">Aprenda Dados com quem sabe - Data Driven School</a><br/>May 26, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
