@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE"><img width="140px" src="https://i.ytimg.com/vi/StL4kI8C8tE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI"><img width="140px" src="https://i.ytimg.com/vi/C4MnpmlaNqI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI">Você não precisa de 20 certificados para entrar em dados</a><br/>Sep 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE"><img width="140px" src="https://i.ytimg.com/vi/StL4kI8C8tE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE">Exame DP-600 Microsoft Fabric | Guia Oficial + Estratégias para Aprovação</a><br/>Aug 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1xO9voNMhx8"><img width="140px" src="https://i.ytimg.com/vi/1xO9voNMhx8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1xO9voNMhx8">AS 5 GRANDES MENTIRAS DO MERCADO DE DADOS</a><br/>Aug 5, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=QY3lr4aI51A">Esse post do Reddit me fez perder a paciência com quem ignora SQL</a><br/>Jul 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Tpe6SYBjpNQ"><img width="140px" src="https://i.ytimg.com/vi/Tpe6SYBjpNQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Tpe6SYBjpNQ">Eu ODEIO o Power BI e o Dataflow? É Sincero!</a><br/>Jul 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2lI1ILZMl-o"><img width="140px" src="https://i.ytimg.com/vi/2lI1ILZMl-o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2lI1ILZMl-o">Pesquisa Salarial 2025 &lpar;Código Fonte TV&rpar;: Quanto ganham os Profissionais de Dados no Brasil?</a><br/>Jul 9, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
