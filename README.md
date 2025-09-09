@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI"><img width="140px" src="https://i.ytimg.com/vi/C4MnpmlaNqI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg"><img width="140px" src="https://i.ytimg.com/vi/N0n2ATkcaZg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg">Arquitetura Medalhão em Engenharia de Dados: Mito ou Necessidade?</a><br/>Sep 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI"><img width="140px" src="https://i.ytimg.com/vi/C4MnpmlaNqI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI">Você não precisa de 20 certificados para entrar em dados</a><br/>Sep 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE"><img width="140px" src="https://i.ytimg.com/vi/StL4kI8C8tE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE">Exame DP-600 Microsoft Fabric | Guia Oficial + Estratégias para Aprovação</a><br/>Aug 18, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=1xO9voNMhx8">AS 5 GRANDES MENTIRAS DO MERCADO DE DADOS</a><br/>Aug 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QY3lr4aI51A"><img width="140px" src="https://i.ytimg.com/vi/QY3lr4aI51A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QY3lr4aI51A">Esse post do Reddit me fez perder a paciência com quem ignora SQL</a><br/>Jul 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Tpe6SYBjpNQ"><img width="140px" src="https://i.ytimg.com/vi/Tpe6SYBjpNQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Tpe6SYBjpNQ">Eu ODEIO o Power BI e o Dataflow? É Sincero!</a><br/>Jul 17, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
