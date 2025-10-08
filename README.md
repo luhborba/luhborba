@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o-M_PhZsO5E"><img width="140px" src="https://i.ytimg.com/vi/o-M_PhZsO5E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6nJxF2lsCfc"><img width="140px" src="https://i.ytimg.com/vi/6nJxF2lsCfc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6nJxF2lsCfc">O Segredo para Encontrar o PROPÓSITO em um Mar de Dados</a><br/>Oct 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o-M_PhZsO5E"><img width="140px" src="https://i.ytimg.com/vi/o-M_PhZsO5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o-M_PhZsO5E">Como Usar Direct Lake no Fabric &lpar;Modelo Semântico + Configuração de Acessos&rpar;</a><br/>Sep 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg"><img width="140px" src="https://i.ytimg.com/vi/N0n2ATkcaZg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg">Arquitetura Medalhão em Engenharia de Dados: Mito ou Necessidade?</a><br/>Sep 8, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI">Você não precisa de 20 certificados para entrar em dados</a><br/>Sep 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE"><img width="140px" src="https://i.ytimg.com/vi/StL4kI8C8tE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=StL4kI8C8tE">Exame DP-600 Microsoft Fabric | Guia Oficial + Estratégias para Aprovação</a><br/>Aug 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1xO9voNMhx8"><img width="140px" src="https://i.ytimg.com/vi/1xO9voNMhx8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1xO9voNMhx8">AS 5 GRANDES MENTIRAS DO MERCADO DE DADOS</a><br/>Aug 5, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
