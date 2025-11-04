@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/NxkxiIJJ9FA"><img width="140px" src="https://i.ytimg.com/vi/NxkxiIJJ9FA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zBdu4FfQkN0"><img width="140px" src="https://i.ytimg.com/vi/zBdu4FfQkN0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zBdu4FfQkN0">PySpark ou Python PURO no Fabric? Kernel Python, o Segredo para o Small/Medium Data!</a><br/>Nov 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/NxkxiIJJ9FA"><img width="140px" src="https://i.ytimg.com/vi/NxkxiIJJ9FA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/NxkxiIJJ9FA">🚀 70% OFF em toda a Data Driven School &lpar;por tempo limitado!&rpar;</a><br/>Oct 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6nJxF2lsCfc"><img width="140px" src="https://i.ytimg.com/vi/6nJxF2lsCfc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6nJxF2lsCfc">O Segredo para Encontrar o PROPÓSITO em um Mar de Dados</a><br/>Oct 7, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=o-M_PhZsO5E">Como Usar Direct Lake no Fabric &lpar;Modelo Semântico + Configuração de Acessos&rpar;</a><br/>Sep 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg"><img width="140px" src="https://i.ytimg.com/vi/N0n2ATkcaZg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N0n2ATkcaZg">Arquitetura Medalhão em Engenharia de Dados: Mito ou Necessidade?</a><br/>Sep 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI"><img width="140px" src="https://i.ytimg.com/vi/C4MnpmlaNqI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C4MnpmlaNqI">Você não precisa de 20 certificados para entrar em dados</a><br/>Sep 1, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
