@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk"><img width="140px" src="https://i.ytimg.com/vi/-2OsxLzLdhk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oQCv_e3N-FE"><img width="140px" src="https://i.ytimg.com/vi/oQCv_e3N-FE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oQCv_e3N-FE">O Mercado de Dados em 2026 NÃO Vai Perdoar Quem Ficar Parado</a><br/>Jan 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk"><img width="140px" src="https://i.ytimg.com/vi/-2OsxLzLdhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk">Tutorial: Como Usar o Editor de Consultas Visuais no Microsoft Fabric</a><br/>Jan 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0rR6oM_uaOQ"><img width="140px" src="https://i.ytimg.com/vi/0rR6oM_uaOQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0rR6oM_uaOQ">5 Anos em Dados e Ainda Pleno? Descubra o Que Te Impede de Ser Sênior</a><br/>Dec 8, 2025</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=GYYS8lf2BtQ">Analista de Dados &lpar;BI&rpar; vs Engenheiro de Dados: Qual caminho seguir?</a><br/>Dec 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zBdu4FfQkN0"><img width="140px" src="https://i.ytimg.com/vi/zBdu4FfQkN0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zBdu4FfQkN0">PySpark ou Python PURO no Fabric? Kernel Python, o Segredo para o Small/Medium Data!</a><br/>Nov 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/NxkxiIJJ9FA"><img width="140px" src="https://i.ytimg.com/vi/NxkxiIJJ9FA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/NxkxiIJJ9FA">🚀 70% OFF em toda a Data Driven School &lpar;por tempo limitado!&rpar;</a><br/>Oct 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
