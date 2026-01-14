@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/CICqewEIGAI"><img width="140px" src="https://i.ytimg.com/vi/CICqewEIGAI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU"><img width="140px" src="https://i.ytimg.com/vi/xcgO6R8DlqU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU">IA_ Seu Estagiário, Não Seu Piloto! Domine a IA</a><br/>Jan 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/CICqewEIGAI"><img width="140px" src="https://i.ytimg.com/vi/CICqewEIGAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/CICqewEIGAI">Crescimento Pessoal_ Pare de Procurar Atalhos.mp4</a><br/>Jan 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZzRPd_GT154"><img width="140px" src="https://i.ytimg.com/vi/ZzRPd_GT154/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZzRPd_GT154">Exploração de Dados - Potencialize com Power Query</a><br/>Jan 8, 2026</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=oQCv_e3N-FE">O Mercado de Dados em 2026 NÃO Vai Perdoar Quem Ficar Parado</a><br/>Jan 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk"><img width="140px" src="https://i.ytimg.com/vi/-2OsxLzLdhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk">Tutorial: Como Usar o Editor de Consultas Visuais no Microsoft Fabric</a><br/>Jan 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0rR6oM_uaOQ"><img width="140px" src="https://i.ytimg.com/vi/0rR6oM_uaOQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0rR6oM_uaOQ">5 Anos em Dados e Ainda Pleno? Descubra o Que Te Impede de Ser Sênior</a><br/>Dec 8, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
