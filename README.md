@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU"><img width="140px" src="https://i.ytimg.com/vi/xcgO6R8DlqU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n77lciixDm8"><img width="140px" src="https://i.ytimg.com/vi/n77lciixDm8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=n77lciixDm8">Mais IA, menos resultado? Veja o que os dados mostram</a><br/>Jan 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/685R6matUWY"><img width="140px" src="https://i.ytimg.com/vi/685R6matUWY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/685R6matUWY">Mercado 2026 - Não seja esquecido! Aprenda AGORA!</a><br/>Jan 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU"><img width="140px" src="https://i.ytimg.com/vi/xcgO6R8DlqU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU">IA_ Seu Estagiário, Não Seu Piloto! Domine a IA</a><br/>Jan 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/CICqewEIGAI"><img width="140px" src="https://i.ytimg.com/vi/CICqewEIGAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/CICqewEIGAI">Crescimento Pessoal_ Pare de Procurar Atalhos.mp4</a><br/>Jan 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZzRPd_GT154"><img width="140px" src="https://i.ytimg.com/vi/ZzRPd_GT154/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZzRPd_GT154">Exploração de Dados - Potencialize com Power Query</a><br/>Jan 8, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oQCv_e3N-FE"><img width="140px" src="https://i.ytimg.com/vi/oQCv_e3N-FE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oQCv_e3N-FE">O Mercado de Dados em 2026 NÃO Vai Perdoar Quem Ficar Parado</a><br/>Jan 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk"><img width="140px" src="https://i.ytimg.com/vi/-2OsxLzLdhk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-2OsxLzLdhk">Tutorial: Como Usar o Editor de Consultas Visuais no Microsoft Fabric</a><br/>Jan 2, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
