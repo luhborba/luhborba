@@ -72,7 +72,9 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/a42aghQFruc"><img width="140px" src="https://i.ytimg.com/vi/a42aghQFruc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Md280v5kjHE"><img width="140px" src="https://i.ytimg.com/vi/Md280v5kjHE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Md280v5kjHE">Microsoft Fabric MUDOU Minha Vida como Engenheiro de Dados</a><br/>Jan 22, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/a42aghQFruc"><img width="140px" src="https://i.ytimg.com/vi/a42aghQFruc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/a42aghQFruc">Query Visual_ Revelado Segredo de Prova e Conteúdo Viral!</a><br/>Jan 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/uKi5MEf0LBw"><img width="140px" src="https://i.ytimg.com/vi/uKi5MEf0LBw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/uKi5MEf0LBw">Não Pense Imediatamente_ Construa Sucesso Sólido Agora!</a><br/>Jan 15, 2026</td></tr></table>
@@ -80,8 +82,6 @@
 <td><a href="https://www.youtube.com/watch?v=n77lciixDm8">Mais IA, menos resultado? Veja o que os dados mostram</a><br/>Jan 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/685R6matUWY"><img width="140px" src="https://i.ytimg.com/vi/685R6matUWY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/685R6matUWY">Mercado 2026 - Não seja esquecido! Aprenda AGORA!</a><br/>Jan 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU"><img width="140px" src="https://i.ytimg.com/vi/xcgO6R8DlqU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/xcgO6R8DlqU">IA_ Seu Estagiário, Não Seu Piloto! Domine a IA</a><br/>Jan 13, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
