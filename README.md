@@ -72,16 +72,16 @@
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/oJh1anpdeOo"><img width="140px" src="https://i.ytimg.com/vi/oJh1anpdeOo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X8ZIPcERIXc"><img width="140px" src="https://i.ytimg.com/vi/X8ZIPcERIXc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X8ZIPcERIXc">IA na Engenharia de Dados com Spark no Microsoft Fabric | Enriquecimento de Dados na Prática</a><br/>Feb 4, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/NYdFlzdmf5U"><img width="140px" src="https://i.ytimg.com/vi/NYdFlzdmf5U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/NYdFlzdmf5U">Um Por Cento Diário - A Chave para Ser Excepcional</a><br/>Feb 4, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/oJh1anpdeOo"><img width="140px" src="https://i.ytimg.com/vi/oJh1anpdeOo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/oJh1anpdeOo">IA - Entregando Valor ou Apenas uma Bengala Profissional</a><br/>Jan 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ch0uqxJkfbM"><img width="140px" src="https://i.ytimg.com/vi/ch0uqxJkfbM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ch0uqxJkfbM">Plataformas Frankenstein  - A Verdade Revelada!</a><br/>Jan 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/YBoV1SSuoUw"><img width="140px" src="https://i.ytimg.com/vi/YBoV1SSuoUw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/YBoV1SSuoUw">Microsoft Fabric -  Ferramenta Fácil para Todos!</a><br/>Jan 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Md280v5kjHE"><img width="140px" src="https://i.ytimg.com/vi/Md280v5kjHE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Md280v5kjHE">Microsoft Fabric MUDOU Minha Vida como Engenheiro de Dados</a><br/>Jan 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/a42aghQFruc"><img width="140px" src="https://i.ytimg.com/vi/a42aghQFruc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/a42aghQFruc">Query Visual_ Revelado Segredo de Prova e Conteúdo Viral!</a><br/>Jan 16, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
