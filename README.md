@@ -1,53 +1,71 @@
-<h1 align="center">Ola 👋, Eu sou Luciano Borba</h1>
-<h3 align="center">Sou Engenheiro de Dados</h3>
+<h1 align="center">Olá 👋, eu sou Luciano Borba</h1>
+<h3 align="center">
+Engenheiro de Dados • Especialista em Microsoft Fabric • Governança & Arquitetura Multicloud
+</h3>
 
-- 🔭 Atualmente estou trabalhando na Eletrobras Chesf **Engenheiro de Dados II**
-- 🌱 Atualmente minhas principais habilidades são relacionadas com: **Data Engineer, Analytics Engineer, GCP, Apache Airflow, Docker, SQL e Python**
-- 📚 Atualmente estou estudando e praticando bastante sobre  **Testes e CI/CD**
-- 👯 Atualmente colaboro com atividade de Analytics **no Centro de Serviço Compartilhado**
-- 👨‍💻 Compartilho minha atividades em [www.linkedin.com/in/luhborba](www.linkedin.com/in/luhborba)
-- 💬 Pergunte-me sobre **Python, SQL, ELT/ETL, Docker e Airflow**
-- 📫 Me ache através do email: **luhborbafilho@gmail.com**
-- 🌐	Acesse minha página pessoal: [https://lrdata.mailchimpsites.com](https://lrdata.mailchimpsites.com)
-- 🌐	Acesse meu Portifólio [https://luhborba.github.io/portifolio/](https://luhborba.github.io/portifolio/)
-
-
-<h3 align="left">Projetos Relevantes na Carreira:</h3>
-
-  -  Implementação de Sistema de Gestão de Processos Online, gerando economia aproximada de R$ 5 Milhões atualmente[Até 2023] na Prefeitura Municipal de João Pessoa ( Plataforma 1Doc ) [2022] 
-  -  Criação do Primeiro Data Warehouse da Secretaria Municipal de Saúde de João Pessoa, utilizando Python + PostgreSQL [2022] 
-  -  Implantação de Sistema para Auditoria Multidisciplinar na Rede Hospitalar e Pré-Hospitalar do Secretaria Municipal de Saúde de João Pessoa [2022-2023]
-  -  Construção de Data Mart para acompanhamento dos Indicadores do Sistema de Auditoria Multidisciplinar, processo de ETL com Pentaho, utilizando SGBD Oracle SQL + Power BI [2022-2023]
-  -  Desenvolvimento de Sistema para Acompanhamentos Oncologicos ( Python + Django ) [2023]
-  -  Desenvolvimento de Sistema para Internação Hospitalar ( Python + Django ) [2023]
-  -  Product Manager de Sistmea de Processo Seletivo para Saúde (Java + Spring) [2024]
-  -  Parte da Equipe de Planejamento da Implantação do Prontuário Eletrônico do Cidadão da Prefeitura Municipal de João Pessoa ( Vivver Sistemas ), implantação realizada com sucesso em 3 Hospitais Municipais, 4 UPAS, 203 Equipes de Atenção Primária, 5 Policlinicas, Todas as Farmácias e Laboratórios Municipais [2022 - 2024]
-  -  Construção e Manutenção da **Rede Estadual de Dados em Saúde** do **Governo do Estado da Paraíba** [2024]
-  -  Implantação de Ferramenta de Orquestração e Ingestão de Dados na **Secretaria Municipal de Saúde de João Pessoa** e **Secretaria Estadual de Saúde da Paraíba** (Apache Airflow-Airbyte) [2024]
-  -  Implantação de Projeto de Data Quality na **Secretaria Municipal de Saúde de João Pessoa** [2023-2024]
-
-## Hard Skills:
-- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (PL-SQL), MySQL, PostgreSQL, DuckDB
-- Modelagem: Relacional, Dimensional
-- Ferramentas de ETL: Pentaho, Integration Services, Python
-- Ferramentas de Orquestração: Apache Airflow
-- Ferramentas de Dataviz: Apache Superset, Streamlit, Power BI, Python Plotly, Python Matplotlib, Python Seaborn
-- Ferramentas de apoio: Excel, Git, Python
-- Ferramenta de Container: Docker
-
-## Soft Skills:
-- Habilidades de Comunicação
-- Focado em Resolução de Problemas
-- Colaboração
-- Pensamento Crítico
-- Constante Aprendizado
-
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luhborba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@luhborba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciano borba" height="30" width="40" /></a>
+<p align="center">
+  🇧🇷 Português | <a href="./README_EN.md">🇺🇸 English</a>
 </p>
+
+Sou Engenheiro de Dados com atuação focada em **arquitetura de dados, governança, performance e pipelines críticos**, trabalhando principalmente com **Microsoft Fabric** em ambientes corporativos e de missão crítica.
+
+Minha experiência une **engenharia robusta, controle de custos, observabilidade e impacto real no negócio**, com atuação em ambientes **multicloud (Fabric + GCP)** e integrações complexas via APIs, Spark e orquestração distribuída.
+
+---
+
+## 🧠 Atuação Atual
+- 🔭 **Engenheiro de Dados** atuando com **Microsoft Fabric, Spark, Airflow e GCP**
+- 🧩 Especialista em **governança de capacidade, consumo de CU, performance e confiabilidade**
+- 🌱 Estudo e aplico práticas de **CI/CD, testes e qualidade para pipelines de dados**
+- 👯 Colaboração ativa em iniciativas de **Analytics e Dados Corporativos**
+- 📊 Foco em transformar ambientes frágeis em **plataformas estáveis, auditáveis e escaláveis**
+
+---
+
+## 🏗️ Projetos de Dados Relevantes
+- Implantação de **governança ativa no Microsoft Fabric**, reduzindo entre **40% e 70%** do consumo de capacidade em workloads críticos
+- Estruturação de Processo de Engenharia de Dados, para criação de Paineis e Agente de Dados, para projeto interno, com ROI de R$ 300 Milhões
+- Estruturação de **pipelines escaláveis e versionados (SCD Tipo 2)** integrando **+200 sistemas** via Airflow, APIs REST e Spark
+- Criação do **primeiro Data Warehouse da saúde pública** de João Pessoa
+- Projetos de **auditoria inteligente**, gerando economia recorrente superior a **R$ 1 milhão/mês**
+- Construção e manutenção da **Rede Estadual de Dados em Saúde da Paraíba**
+- Arquitetura de Data Lake e pipelines auditáveis em ambientes on-premise e cloud
+- Implantação de projeto de Data Quality no setor público
+- Participação no planejamento e implantação do Prontuário Eletrônico do Cidadão em João Pessoa/PB
+- Desenvolvimento de sistemas para oncologia e internação hospitalar
+- Implementação de Sistema de Gestão de Processos Online, gerando economia estimada de R$ 5 milhões/Ano
+
+---
+
+## 🧩 Especialidades Técnicas
+- **Plataformas de Dados**: Microsoft Fabric (Lakehouse, Pipelines, Warehouse), GCP  
+- **Engenharia de Dados**: Python, SQL, Apache Spark, Apache Airflow  
+- **Governança & Performance**: controle de capacidade, observabilidade, otimização de custos  
+- **Arquitetura**: ingestão incremental, versionamento (SCD), camadas de dados  
+- **DevOps para Dados**: CI/CD, testes, Docker, GitHub Actions  
+
+---
+
+## 🧪 Projeto em Destaque
+Atualmente estou desenvolvendo uma **biblioteca Python focada em governança e automação do Microsoft Fabric**, com recursos para inspeção de ambientes, controle de consumo, auditoria e apoio à observabilidade.
+
+➡️ **Repositório**: `fabricgov` *(em evolução)*
+Link do Repositório: https://github.com/luhborba/fabricgov
+
+---
+
+## 🌐 Conteúdo e Comunidade
+- Compartilho aprendizados técnicos e bastidores reais da Engenharia de Dados no  
+  🎥 **YouTube**: https://www.youtube.com/@luhborba  
+- Cofundador da **Data Driven School**, iniciativa focada em formação prática e engenharia, analise e ciência de dados com método
+  https://www.datadrivenschool.com/
+
+---
+
+## 📫 Onde me encontrar
+- 💼 LinkedIn: https://www.linkedin.com/in/luhborba  
+ 
+- 📧 Email: luhborbafilho@gmail.com
 
 <h3 align="left">Trabalho com as Seguintes Tecnologias: </h3>
 
