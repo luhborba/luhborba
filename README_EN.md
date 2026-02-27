@@ -3,6 +3,10 @@
 Data Engineer • Microsoft Fabric Specialist • Governance & Multicloud Architecture
 </h3>
 
+<p align="center">
+  <a href="./README.md">🇧🇷 Português</a> | 🇺🇸 English
+</p>
+
 I’m a Data Engineer focused on **data architecture, governance, performance and mission-critical pipelines**, working primarily with **Microsoft Fabric** in large-scale corporate environments.
 
 My work connects **robust engineering, cost control, observability and real business impact**, with hands-on experience in **multicloud architectures (Fabric + GCP)** and complex integrations using APIs, Spark and distributed orchestration.
