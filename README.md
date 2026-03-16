@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs"><img width="140px" src="https://i.ytimg.com/vi/_pBBuxSGFrs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y"><img width="140px" src="https://i.ytimg.com/vi/gXp6PdJEn1Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y">SKILL AI na Engenharia de Dados: pare de usar como chatbot genérico</a><br/>Mar 15, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs"><img width="140px" src="https://i.ytimg.com/vi/_pBBuxSGFrs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs">FabricGov v0.8: Governança no Microsoft Fabric via CLI &lpar;Inventário + Acessos + Refresh&rpar;</a><br/>Mar 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qgeGJjHpBHc"><img width="140px" src="https://i.ytimg.com/vi/qgeGJjHpBHc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qgeGJjHpBHc">Capacity Admin vs Fabric Admin no Microsoft Fabric | Diferenças, Permissões, Governança e Riscos</a><br/>Feb 24, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/shorts/OrbfhHNCayA">Frankenstein dos Dados - Evite Essa Armadilha Arquitetural!</a><br/>Feb 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6tbgbbHG-8c"><img width="140px" src="https://i.ytimg.com/vi/6tbgbbHG-8c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6tbgbbHG-8c">Consumo de Background no Microsoft Fabric Está Explodindo? Veja Como Reduzir Capacity Units &lpar;CU&rpar;</a><br/>Feb 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X8ZIPcERIXc"><img width="140px" src="https://i.ytimg.com/vi/X8ZIPcERIXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X8ZIPcERIXc">IA na Engenharia de Dados com Spark no Microsoft Fabric | Enriquecimento de Dados na Prática</a><br/>Feb 4, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
