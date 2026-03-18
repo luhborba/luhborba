@@ -93,7 +93,7 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY"><img width="140px" src="https://i.ytimg.com/vi/GR-WYOMCctY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY">SKILL AI Vai Roubar Seu Emprego Tech? | Debate Real com Engenheiros de Software/Dados</a><br/>Mar 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y"><img width="140px" src="https://i.ytimg.com/vi/gXp6PdJEn1Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y">SKILL AI na Engenharia de Dados: pare de usar como chatbot genérico</a><br/>Mar 15, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y">Pare de usar IA como chatbot: isso está te atrasando</a><br/>Mar 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs"><img width="140px" src="https://i.ytimg.com/vi/_pBBuxSGFrs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs">FabricGov v0.8: Governança no Microsoft Fabric via CLI &lpar;Inventário + Acessos + Refresh&rpar;</a><br/>Mar 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qgeGJjHpBHc"><img width="140px" src="https://i.ytimg.com/vi/qgeGJjHpBHc/mqdefault.jpg"></a></td>
