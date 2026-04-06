@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY"><img width="140px" src="https://i.ytimg.com/vi/GR-WYOMCctY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4"><img width="140px" src="https://i.ytimg.com/vi/UDXIxkZvFi4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4">Ciência de Dados e Inteligência Artificial dentro do Microsoft Fabric, com Alessandro Bezerra</a><br/>Apr 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY"><img width="140px" src="https://i.ytimg.com/vi/GR-WYOMCctY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY">SKILL AI Vai Roubar Seu Emprego Tech? | Debate Real com Engenheiros de Software/Dados</a><br/>Mar 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y"><img width="140px" src="https://i.ytimg.com/vi/gXp6PdJEn1Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y">Pare de usar IA como chatbot: isso está te atrasando</a><br/>Mar 15, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/watch?v=_pBBuxSGFrs">FabricGov v0.8: Governança no Microsoft Fabric via CLI &lpar;Inventário + Acessos + Refresh&rpar;</a><br/>Mar 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qgeGJjHpBHc"><img width="140px" src="https://i.ytimg.com/vi/qgeGJjHpBHc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qgeGJjHpBHc">Capacity Admin vs Fabric Admin no Microsoft Fabric | Diferenças, Permissões, Governança e Riscos</a><br/>Feb 24, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/OrbfhHNCayA"><img width="140px" src="https://i.ytimg.com/vi/OrbfhHNCayA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/OrbfhHNCayA">Frankenstein dos Dados - Evite Essa Armadilha Arquitetural!</a><br/>Feb 23, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
