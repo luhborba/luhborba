@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5H4kazS3JDc"><img width="140px" src="https://i.ytimg.com/vi/5H4kazS3JDc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/3wtsmtw6XUU"><img width="140px" src="https://i.ytimg.com/vi/3wtsmtw6XUU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/3wtsmtw6XUU">O que você não sabe sobre governança no Fabric #MicrosoftFabric #Dica #DataGov #fabricgov</a><br/>Apr 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5H4kazS3JDc"><img width="140px" src="https://i.ytimg.com/vi/5H4kazS3JDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5H4kazS3JDc">FabricGov 1.0.3: governança no Microsoft Fabric do jeito que deveria ser</a><br/>Apr 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/I-HmfwibHdo"><img width="140px" src="https://i.ytimg.com/vi/I-HmfwibHdo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/I-HmfwibHdo">FabricGov: Gere relatórios enquanto seu chefe espera #traballo #shorts</a><br/>Apr 9, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4">Ciência de Dados e Inteligência Artificial dentro do Microsoft Fabric, com Alessandro Bezerra</a><br/>Apr 5, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY"><img width="140px" src="https://i.ytimg.com/vi/GR-WYOMCctY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GR-WYOMCctY">SKILL AI Vai Roubar Seu Emprego Tech? | Debate Real com Engenheiros de Software/Dados</a><br/>Mar 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y"><img width="140px" src="https://i.ytimg.com/vi/gXp6PdJEn1Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gXp6PdJEn1Y">Pare de usar IA como chatbot: isso está te atrasando</a><br/>Mar 15, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
