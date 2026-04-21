@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4"><img width="140px" src="https://i.ytimg.com/vi/UDXIxkZvFi4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ"><img width="140px" src="https://i.ytimg.com/vi/io8cQmo06UQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ">Bate-papo: Carreira em dados: por que comunidade é sua maior alavanca, com Ronnan Lima</a><br/>Apr 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4"><img width="140px" src="https://i.ytimg.com/vi/UDXIxkZvFi4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4">Ciência de Dados e Inteligência Artificial dentro do Microsoft Fabric, com Alessandro Bezerra</a><br/>Apr 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7pheJOeKCXU"><img width="140px" src="https://i.ytimg.com/vi/7pheJOeKCXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7pheJOeKCXU">Relatório Microsoft Fabric em 4 linhas &lpar;Microsoft não faz assim&rpar; #microsoftfabric #code #fabricgov</a><br/>Apr 13, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/shorts/3wtsmtw6XUU">O que você não sabe sobre governança no Fabric #MicrosoftFabric #Dica #DataGov #fabricgov</a><br/>Apr 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5H4kazS3JDc"><img width="140px" src="https://i.ytimg.com/vi/5H4kazS3JDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5H4kazS3JDc">FabricGov 1.0.3: governança no Microsoft Fabric do jeito que deveria ser</a><br/>Apr 9, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/I-HmfwibHdo"><img width="140px" src="https://i.ytimg.com/vi/I-HmfwibHdo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/I-HmfwibHdo">FabricGov: Gere relatórios enquanto seu chefe espera #traballo #shorts</a><br/>Apr 9, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
