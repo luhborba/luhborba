@@ -91,7 +91,7 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 -- Adicionado Automaticamente através do GitHub Actions --
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ"><img width="140px" src="https://i.ytimg.com/vi/io8cQmo06UQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ">Bate-papo: Carreira em dados: por que comunidade é sua maior alavanca, com Ronnan Lima</a><br/>Apr 20, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ">Bate-papo: Carreira em dados: por que comunidade é sua maior alavanca, com Ronnan Lima</a><br/>Apr 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4"><img width="140px" src="https://i.ytimg.com/vi/UDXIxkZvFi4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4">Ciência de Dados e Inteligência Artificial dentro do Microsoft Fabric, com Alessandro Bezerra</a><br/>Apr 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7pheJOeKCXU"><img width="140px" src="https://i.ytimg.com/vi/7pheJOeKCXU/mqdefault.jpg"></a></td>
