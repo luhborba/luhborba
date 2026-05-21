@@ -91,7 +91,7 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 -- Adicionado Automaticamente através do GitHub Actions --
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I"><img width="140px" src="https://i.ytimg.com/vi/FXKxVVVrW4I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I">Bate-Papo com Bruce Fonseca: Carreira, Vida, Conteúdo e IA</a><br/>May 18, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I">Bate-Papo com Bruce Fonseca: Carreira, Vida, Conteúdo e IA</a><br/>May 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ"><img width="140px" src="https://i.ytimg.com/vi/io8cQmo06UQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ">Bate-papo: Carreira em dados: por que comunidade é sua maior alavanca, com Ronnan Lima</a><br/>Apr 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4"><img width="140px" src="https://i.ytimg.com/vi/UDXIxkZvFi4/mqdefault.jpg"></a></td>
