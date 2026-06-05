@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I"><img width="140px" src="https://i.ytimg.com/vi/FXKxVVVrW4I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/11io1UBHCzc"><img width="140px" src="https://i.ytimg.com/vi/11io1UBHCzc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/11io1UBHCzc">Perigo de focar só na IA sem fundamentos #shorts</a><br/>Jun 4, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I"><img width="140px" src="https://i.ytimg.com/vi/FXKxVVVrW4I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FXKxVVVrW4I">Bate-Papo com Bruce Fonseca: Carreira, Vida, Conteúdo e IA</a><br/>May 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ"><img width="140px" src="https://i.ytimg.com/vi/io8cQmo06UQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=io8cQmo06UQ">Bate-papo: Carreira em dados: por que comunidade é sua maior alavanca, com Ronnan Lima</a><br/>Apr 23, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/watch?v=UDXIxkZvFi4">Ciência de Dados e Inteligência Artificial dentro do Microsoft Fabric, com Alessandro Bezerra</a><br/>Apr 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7pheJOeKCXU"><img width="140px" src="https://i.ytimg.com/vi/7pheJOeKCXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7pheJOeKCXU">Relatório Microsoft Fabric em 4 linhas &lpar;Microsoft não faz assim&rpar; #microsoftfabric #code #fabricgov</a><br/>Apr 13, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/3wtsmtw6XUU"><img width="140px" src="https://i.ytimg.com/vi/3wtsmtw6XUU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/3wtsmtw6XUU">O que você não sabe sobre governança no Fabric #MicrosoftFabric #Dica #DataGov #fabricgov</a><br/>Apr 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
