@@ -90,7 +90,9 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 
 -- Adicionado Automaticamente através do GitHub Actions --
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Yr9kWVGXl_8"><img width="140px" src="https://i.ytimg.com/vi/Yr9kWVGXl_8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=r7LVLVddT5Y"><img width="140px" src="https://i.ytimg.com/vi/r7LVLVddT5Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r7LVLVddT5Y">Trabalhando com Dados na Gringa: +R$ 40 mil/mês | Carreira Internacional e Microsoft Fabric</a><br/>Sep 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Yr9kWVGXl_8"><img width="140px" src="https://i.ytimg.com/vi/Yr9kWVGXl_8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yr9kWVGXl_8">Power BI vs Vibe Coding: Qual é o Mais Eficiente? Opinião Rápida</a><br/>Sep 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bPUGzrT8TZc"><img width="140px" src="https://i.ytimg.com/vi/bPUGzrT8TZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bPUGzrT8TZc">Microsoft Fabric 2026: Data Engineering, Power BI, Data Factory e mais</a><br/>Sep 13, 2026</td></tr></table>
@@ -98,8 +100,6 @@ Link do Repositório: https://github.com/luhborba/fabricgov
 <td><a href="https://www.youtube.com/watch?v=0i8HHY1TLwk">Power BI no Fabric: 5 Erros que te custam caro em Performance</a><br/>Sep 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8ktUm39fZs8"><img width="140px" src="https://i.ytimg.com/vi/8ktUm39fZs8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8ktUm39fZs8">Carreira em Dados: A verdade de quem saiu do chão de fábrica | História do Mestre Bruce Fonseca</a><br/>Jun 12, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/11io1UBHCzc"><img width="140px" src="https://i.ytimg.com/vi/11io1UBHCzc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/11io1UBHCzc">Perigo de focar só na IA sem fundamentos #shorts</a><br/>Jun 4, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <div>
